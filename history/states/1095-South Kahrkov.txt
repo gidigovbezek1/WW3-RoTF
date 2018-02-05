@@ -2,11 +2,10 @@ state={
 	id=1095
 	name="STATE_1095"
 	history={
-		owner = SOV
+		owner = UKR
 		buildings = {
 			infrastructure = 7
 		}
-		add_core_of = SOV
 		add_core_of = UKR
 	}
 	provinces={

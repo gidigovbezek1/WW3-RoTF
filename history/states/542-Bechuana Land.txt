@@ -9,7 +9,7 @@ state={
 		chromium=168
 	}
 	history={
-		owner = ENG
+		owner = SAF
 		victory_points = {
 			8214 1
 		}
@@ -17,6 +17,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = BOT
+		add_core_of = SAF
 	}
 	provinces={
 		1580 8214 10525 12940 12963 

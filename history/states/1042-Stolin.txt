@@ -2,11 +2,10 @@ state={
 	id=1042
 	name="STATE_1042"
 	history={
-		owner = POL
+		owner = BLR
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = POL
 		add_core_of = BLR
 	}
 	provinces={
