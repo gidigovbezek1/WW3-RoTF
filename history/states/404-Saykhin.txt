@@ -2,7 +2,7 @@
 state={
 	id=404
 	name="STATE_404"
-
+	wasteland
 	history={
 		owner = SOV
 		buildings = {

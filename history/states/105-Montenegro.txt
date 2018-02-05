@@ -6,8 +6,9 @@ state={
 		aluminium=56.000
 	}
 	history={
-		owner = YUG
+		owner = SER
 		add_core_of = MNT
+		add_core_of = SER
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

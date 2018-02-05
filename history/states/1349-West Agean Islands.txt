@@ -2,11 +2,12 @@ state={
 	id=1349
 	name="STATE_1349"
 	history={
-		owner = GRE
+		owner = TUR
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = GRE
+		add_core_of = TUR
+		add_claim_by = GRE
 	}
 	provinces={
 		3401 

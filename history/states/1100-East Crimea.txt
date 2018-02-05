@@ -1,6 +1,8 @@
+
 state={
 	id=1100
 	name="STATE_1100"
+
 	history={
 		owner = SOV
 		buildings = {
@@ -8,13 +10,17 @@ state={
 			9680 = {
 				naval_base = 1
 				coastal_bunker = 1
+
 			}
+
 		}
 		add_core_of = SOV
 		add_core_of = CRI
+
 	}
+
 	provinces={
-		9677 9680 9718 
+		6741 9677 9680 9718 11668 
 	}
 	manpower=265402
 	buildings_max_level_factor=1.000

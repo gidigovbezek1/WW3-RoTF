@@ -2,13 +2,14 @@ state={
 	id=757
 	name="STATE_757"
 	history={
-		owner = YUG
+		owner = CRO
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_claim_by = HUN
 	}
 	provinces={
 		3627 6647 9595 11577 

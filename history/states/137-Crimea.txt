@@ -2,7 +2,7 @@ state={
 	id=137
 	name="STATE_137"
 	history={
-		owner = SOV
+		owner = GER
 		victory_points = {
 			3686 20 
 		}
@@ -15,13 +15,8 @@ state={
 				coastal_bunker = 3
 			}
 		}
-		add_core_of = SOV
 		add_core_of = CRI
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-			}
-		}
+		add_core_of = GER
 	}
 	provinces={
 		3686 

@@ -1,16 +1,21 @@
+
 state={
 	id=1033
 	name="STATE_1033"
+
 	history={
 		owner = GER
 		buildings = {
 			infrastructure = 6
+
 		}
 		add_core_of = POL
 		add_core_of = GER
+
 	}
+
 	provinces={
-		9412 11398 
+		9412 
 	}
 	manpower=878560
 	buildings_max_level_factor=1.000

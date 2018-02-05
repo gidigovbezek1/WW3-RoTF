@@ -1,3 +1,4 @@
+
 state={
 	id=234
 	name="STATE_234"
@@ -5,6 +6,7 @@ state={
 		tungsten=26.000
 		oil=18.000
 	}
+
 	history={
 		owner = SOV
 		victory_points = {
@@ -13,11 +15,14 @@ state={
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
+
 		}
 		add_core_of = SOV
+
 	}
+
 	provinces={
-		750 3734 3752 6741 6755 6768 9709 11729 
+		750 3734 3752 6755 6768 9709 11729 
 	}
 	manpower=725842
 	buildings_max_level_factor=1.000

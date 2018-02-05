@@ -4,7 +4,7 @@ state={
 	name="STATE_1352"
 
 	history={
-		add_core_of = GRE
+		add_claim_by = GRE
 		owner = TUR
 		buildings = {
 			infrastructure = 5

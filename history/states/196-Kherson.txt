@@ -1,12 +1,16 @@
 
 state={
-	id=259
-	name="STATE_259"
+	id=196
+	name="STATE_196"
+	resources={
+		chromium=22.000
+	}
 
 	history={
 		owner = SOV
 		buildings = {
 			infrastructure = 5
+			air_base = 3
 
 		}
 		add_core_of = SOV
@@ -15,9 +19,9 @@ state={
 	}
 
 	provinces={
-		559 6495 6605 9413 9491 9519 
+		568 721 737 767 3573 6771 9712 
 	}
-	manpower=721292
+	manpower=728363
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

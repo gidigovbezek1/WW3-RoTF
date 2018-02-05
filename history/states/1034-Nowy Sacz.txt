@@ -1,15 +1,20 @@
+
 state={
 	id=1034
 	name="STATE_1034"
+
 	history={
 		owner = POL
 		buildings = {
 			infrastructure = 6
+
 		}
 		add_core_of = POL
+
 	}
+
 	provinces={
-		417 3410 
+		417 3410 11398 
 	}
 	manpower=878560
 	buildings_max_level_factor=1.000

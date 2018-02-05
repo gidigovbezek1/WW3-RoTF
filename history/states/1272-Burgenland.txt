@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = AUS
 		add_core_of = GER
+		add_claim_by = HUN
 	}
 	provinces={
 		3700 9661 11630 

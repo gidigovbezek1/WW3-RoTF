@@ -2,7 +2,7 @@ state={
 	id=87
 	name="STATE_87"
 	history={
-		owner = POL
+		owner = GER
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -11,11 +11,7 @@ state={
 			9508 1 
 		}
 		add_core_of = POL
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-			}
-		}
+		add_core_of = GER
 	}
 	provinces={
 		9508 11428 
