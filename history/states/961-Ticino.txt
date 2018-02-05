@@ -7,14 +7,13 @@ state={
 	}
 
 	history={
-		owner = SWI
+		owner = ITA
 		buildings = {
 			infrastructure = 6
 
 		}
+		add_core_of = ITA
 		add_core_of = SWI
-		add_claim_by = ITA
-
 	}
 
 	provinces={

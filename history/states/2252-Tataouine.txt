@@ -3,8 +3,9 @@ state={
 	name="STATE_2252"
 	impassable=yes
 	history={
-		owner = FRA
+		owner = ITA
 		add_core_of = TUN
+		add_core_of = ITA
 		buildings = {
 			infrastructure = 3
 		}

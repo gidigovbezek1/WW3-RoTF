@@ -9,13 +9,12 @@ state={
 		aluminium=19.000
 	}
 	history={
-		owner = YUG
-		add_core_of = MAC
+		owner = ALB
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = YUG
+		add_core_of = ALB
 	}
 	manpower=149250
 	buildings_max_level_factor=1.000

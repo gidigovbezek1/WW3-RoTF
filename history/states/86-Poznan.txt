@@ -12,7 +12,6 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = POL
 	}
 	provinces={
 		388 3532 6558 

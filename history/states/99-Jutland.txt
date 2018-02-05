@@ -5,14 +5,14 @@ state={
 		aluminium=10.000
 	}
 	history={
-		owner = DEN
+		owner = GER
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 3
 			air_base = 2
 		}
 		add_core_of = DEN
-		add_claim_by = GER
+		add_core_of = GER
 	}
 	provinces={
 		332 11251 

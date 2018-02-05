@@ -1,19 +1,25 @@
+
 state={
 	id=102
 	name="STATE_102"
+
 	history={
-		owner = YUG
+		owner = GER
 		buildings = {
 			infrastructure = 6
+
 		}
 		victory_points = {
 			9627 3 
 		}
+		add_core_of = GER
+		add_core_of = AUS
 		add_core_of = SLV
-		add_core_of = YUG
+
 	}
+
 	provinces={
-		3631 6650 9596 9627 11612 
+		3631 6650 9596 9627 11564 11612 
 	}
 	manpower=572150
 	buildings_max_level_factor=1.000

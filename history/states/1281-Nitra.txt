@@ -5,19 +5,11 @@ state={
 		steel=8.000
 	}
 	history={
-		owner = CZE
+		owner = HUN
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = CZE
-		add_core_of = SLO
-		1939.3.14 = {
-			owner = HUN
-			controller = HUN
-			remove_claim_by = HUN
-			add_core_of = HUN
-			add_core_of = SLO
-		}
+		add_core_of = HUN
 	}
 	provinces={
 		3716 11679 
