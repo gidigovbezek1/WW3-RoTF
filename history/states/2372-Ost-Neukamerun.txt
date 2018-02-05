@@ -1,0 +1,23 @@
+state={
+	id=2372
+	name="STATE_2372"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = FRA
+		add_core_of = CEA
+		add_claim_by = CMR
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+	provinces={
+		11012 13259 
+	}
+	manpower=421562
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

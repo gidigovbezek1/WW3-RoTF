@@ -1,0 +1,22 @@
+state={
+	id=328
+	name="STATE_328"
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			4572 1 
+		}
+	}
+	provinces={
+		4503 4572 4633 7652 11744 
+	}
+	manpower=2637693
+	buildings_max_level_factor=1.000
+	state_category=city
+}

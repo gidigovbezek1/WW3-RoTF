@@ -1,0 +1,53 @@
+﻿
+
+division_template = {
+	name = "Myanmar Infantry Brigade"		
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+}
+
+
+
+units = {
+	######## LAND OOB ########
+	##### Myanmar High Command #####
+	division = {
+		name = "1st Myanmar Infantry Brigade"
+		location = 1330
+		division_template = "Myanmar Infantry Brigade"		
+		start_experience_factor = 0.0
+	}
+	
+	division = {
+		name = "2nd Myanmar Infantry Brigade"
+		location = 1492
+		division_template = "Myanmar Infantry Brigade"		
+		start_experience_factor = 0.0
+	}
+}
+
+
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "MYA"
+		}
+		requested_factories = 2
+		progress = 0.1
+		efficiency = 50
+	}
+
+}
+
+#################################

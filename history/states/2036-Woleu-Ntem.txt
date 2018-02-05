@@ -1,0 +1,23 @@
+
+state={
+	id=2036
+	name="STATE_2036"
+
+	history={
+		owner = FRA
+		add_core_of = GAB
+		add_claim_by = CMR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13260 13261
+	}
+	manpower=26506
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
