@@ -5,7 +5,7 @@ state={
 		steel=3.000
 	}
 	history={
-		owner = EST
+		owner = LAT
 		victory_points = {
 			3152 5 
 		}
@@ -19,7 +19,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = EST
+		add_core_of = LAT
 	}
 	provinces={
 		3152 
