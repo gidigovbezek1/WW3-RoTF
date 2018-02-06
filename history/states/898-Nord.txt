@@ -2,7 +2,7 @@ state={
 	id=898
 	name="STATE_898"
 	history={
-		owner = FRA
+		owner = BEL
 		victory_points = {
 			575 5 
 		}
@@ -15,7 +15,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = FRA
+		add_core_of = BEL
 	}
 	provinces={
 		575 11483 11606 

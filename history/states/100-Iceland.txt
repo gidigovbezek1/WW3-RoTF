@@ -2,7 +2,7 @@ state={
 	id=100
 	name="STATE_100"
 	history={
-		owner = DEN
+		owner = USA
 		victory_points = {
 			12674 1 
 		}
@@ -12,7 +12,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = DEN
+		add_core_of = USA
 		add_core_of = ICE
 	}
 	provinces={

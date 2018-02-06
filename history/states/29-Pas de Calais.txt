@@ -6,7 +6,7 @@ state={
 		aluminium=22.000
 	}
 	history={
-		owner = FRA
+		owner = BEL
 		victory_points = {
 			11548 15 
 		}
@@ -15,12 +15,7 @@ state={
 			industrial_complex = 4
 			air_base = 10
 		}
-		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 6
-			}
-		}
+		add_core_of = BEL
 	}
 	provinces={
 		3536 11548 

@@ -2,7 +2,7 @@
 state={
 	id=683
 	name="STATE_683"
-	wasteland = yes
+	impassable = yes
 	resources={
 		aluminium=8.000
 	}
