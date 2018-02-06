@@ -2,7 +2,7 @@ state={
 	id=2303
 	name="STATE_2303"
 	history={
-		owner = POR
+		owner = ANG
 		buildings = {
 			infrastructure = 2
 		}
@@ -10,6 +10,7 @@ state={
 			10966 1 
 		}
 		add_core_of = ANG
+		add_claim_by = POR
 	}
 	provinces={
 		8138 8202 10966 12958 12985 

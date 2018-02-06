@@ -5,7 +5,7 @@ state={
 		rubber=1.000
 	}
 	history={
-		owner = POR
+		owner = ANG
 		buildings = {
 			infrastructure = 2
 			8248 = {
@@ -16,6 +16,7 @@ state={
 			8248 1 
 		}
 		add_core_of = ANG
+		add_claim_by = POR
 	}
 	provinces={
 		5158 8219 8248 12981 

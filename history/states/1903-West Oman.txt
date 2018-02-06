@@ -2,11 +2,12 @@ state={
 	id=1903
 	name="STATE_1903"
 	history={
-		owner = OMA
+		owner = SAU
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = OMA
+		add_core_of = SAU
 	}
 	provinces={
 		2059 2103 

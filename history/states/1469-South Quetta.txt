@@ -2,11 +2,12 @@ state={
 	id=1469
 	name="STATE_1469"
 	history={
-		owner = RAJ
+		owner = PER
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = PAK
+		add_core_of = PER
 	}
 	provinces={
 		5105 7847 8098 10813 

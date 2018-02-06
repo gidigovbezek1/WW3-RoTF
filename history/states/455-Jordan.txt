@@ -2,7 +2,7 @@ state={
 	id=455
 	name="STATE_455"
 	history={
-		owner = ENG
+		owner = SAU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -10,7 +10,7 @@ state={
 		victory_points = {
 			7151 1 
 		}
-		add_core_of = JOR
+		add_core_of = SAU
 	}
 	provinces={
 		7151 7170 10089 

@@ -259,7 +259,7 @@
  STATE_749:0 "Prizren"
  STATE_750:0 "Pristina"
  STATE_751:0 "Syrmia"
- STATE_752:0 "Banat"
+ STATE_752:1 "Banat"
  STATE_753:0 "Sarajevo"
  STATE_754:0 "Livanjski"
  STATE_755:0 "Visegrad"

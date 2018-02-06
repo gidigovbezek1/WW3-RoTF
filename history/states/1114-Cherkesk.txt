@@ -5,11 +5,10 @@ state={
 		chromium=16.000
 	}
 	history={
-		owner = SOV
+		owner = DAG
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SOV
 	}
 	provinces={
 		6692 9649 11664 
