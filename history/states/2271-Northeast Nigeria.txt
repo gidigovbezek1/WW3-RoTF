@@ -7,6 +7,7 @@ state={
 	history={
 		owner = NIR
 		add_core_of = NIR
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 1
 		}

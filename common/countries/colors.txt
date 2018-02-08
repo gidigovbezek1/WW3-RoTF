@@ -1282,50 +1282,70 @@ SCH = {
  color_ui = rgb { 0 0 128 }
 }
 SYM = {
-	color = rgb {214 167 56}
-	color_ui = rgb {214 167 56}
+ color = rgb {214 167 56}
+ color_ui = rgb {214 167 56}
 }
 SML = {
-	color = rgb { 243 249 28 }
-	color_ui = rgb { 243 249 28 }
+ color = rgb { 243 249 28 }
+ color_ui = rgb { 243 249 28 }
 }
 NNG = {
-	color = rgb { 189 9 13 }
-	color_ui = rgb { 189 9 13 }
+ color = rgb { 189 9 13 }
+ color_ui = rgb { 189 9 13 }
 }
 WNG = {
-	color = rgb { 111 68 168 }
-	color_ui = rgb { 111 68 168 }
+ color = rgb { 111 68 168 }
+ color_ui = rgb { 111 68 168 }
 }
 NCL = {
-	color = rgb { 87 115 189 }
-	color_ui = rgb { 87 115 189 }
+ color = rgb { 87 115 189 }
+ color_ui = rgb { 87 115 189 }
 }
 VAT = {
-	color = rgb { 255 255 45 }
-	color_ui = rgb { 255 255 45 }
+ color = rgb { 255 255 45 }
+ color_ui = rgb { 255 255 45 }
 }
 SNM = {
-	color = rgb { 0 159 80 }
-	color_ui = rgb { 0 159 80 }
+ color = rgb { 0 159 80 }
+ color_ui = rgb { 0 159 80 }
 }
 LIE = {
-	color = rgb { 128 128 192 }
-	color_ui = rgb { 128 128 192 }
+ color = rgb { 128 128 192 }
+ color_ui = rgb { 128 128 192 }
 }
 BOU = {
-	color = rgb { 0 64 128 }
-	color_ui = rgb { 0 64 128 }
+ color = rgb { 0 64 128 }
+ color_ui = rgb { 0 64 128 }
 }
 ADR = {
-	color = rgb { 255 128 64 }
-	color_ui = rgb { 255 128 64 }
+ color = rgb { 255 128 64 }
+ color_ui = rgb { 255 128 64 }
 }
 MNA = {
-	color = rgb { 23 180 255 }
-	color_ui = rgb { 23 180 255 }
+ color = rgb { 23 180 255 }
+ color_ui = rgb { 23 180 255 }
 }
 BHR = {
-	color = rgb { 255 128 255 }
-	color_ui = rgb { 255 128 255 }
+ color = rgb { 255 128 255 }
+ color_ui = rgb { 255 128 255 }
+}
+TKS = {
+ color = rgb { 19 123 157 }
+ color_ui = rgb { 19 123 157 }
+}
+WIF = {
+ color = rgb { 139 115 85 }
+ color_ui = rgb { 139 115 85 }
+}
+UCA = {
+ color = rgb { 140 242 193 }
+ color_ui = rgb { 140 242 193 }
+}
+MAF = {
+ color = rgb { 119 136 60 }
+ color_ui = rgb { 119 136 60 }
+}
+TCF = {
+ color = rgb { 239 219 137 }
+ color_ui = rgb { 239 219 137 }
 }

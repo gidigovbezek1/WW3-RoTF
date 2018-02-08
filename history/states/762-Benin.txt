@@ -4,6 +4,7 @@ state={
 	history={
 		owner = BEN
 		add_core_of = BEN
+		add_core_of = MAF
 		victory_points = {
 			10919 1
 		}

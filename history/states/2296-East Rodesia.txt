@@ -8,6 +8,7 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ZAM
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 1
 		}

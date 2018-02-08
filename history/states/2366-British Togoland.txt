@@ -6,6 +6,7 @@ state={
 		owner = TOG
 		add_core_of = TOG
 		add_core_of = GHA
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 2
 			12785 = {

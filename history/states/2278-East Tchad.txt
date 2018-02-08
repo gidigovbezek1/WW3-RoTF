@@ -4,6 +4,7 @@ state={
 	history={
 		owner = TCH
 		add_core_of = TCH
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 1
 		}

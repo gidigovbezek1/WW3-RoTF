@@ -14,6 +14,7 @@ state={
 			5210 1 
 		}
 		add_core_of = KEN
+		add_core_of = MAF
 	}
 	provinces={
 		5196 5210 6020 10761 10976 

@@ -21,6 +21,7 @@ state={
 
 		}
 		add_core_of = TAZ
+		add_core_of = MAF
 
 	}
 

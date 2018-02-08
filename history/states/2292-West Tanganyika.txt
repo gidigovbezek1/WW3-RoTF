@@ -11,7 +11,7 @@ state={
 		}
 		add_core_of = TAZ
 		add_core_of = TAG
-
+		add_core_of = MAF
 	}
 
 	provinces={

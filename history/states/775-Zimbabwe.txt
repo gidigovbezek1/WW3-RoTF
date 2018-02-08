@@ -14,6 +14,7 @@ state={
 			10929 1 
 		}
 		add_core_of = ZIM
+		add_claim_by = POR
 	}
 	provinces={
 		1874 2151 2216 4851 7842 10929 

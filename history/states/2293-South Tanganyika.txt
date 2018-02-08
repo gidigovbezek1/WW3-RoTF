@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = TAZ
 		add_core_of = TAG
+		add_core_of = MAF
 	}
 	provinces={
 		8182 8201 10845 12944 12967 

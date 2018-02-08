@@ -12,6 +12,7 @@ state={
 		}
 		add_core_of = TAZ
 		add_core_of = ZAN
+		add_core_of = MAF
 	}
 	provinces={
 		13240 
