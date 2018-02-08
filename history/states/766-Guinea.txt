@@ -2,7 +2,7 @@ state={
 	id=766
 	name="STATE_766"
 	history={
-		owner = FRA
+		owner = GUI
 		add_core_of = GUI
 		victory_points = {
 			1909 1 

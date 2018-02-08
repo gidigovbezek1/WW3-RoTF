@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = BEL
+		owner = RWA
 		add_core_of = RWA
 		buildings = {
 			infrastructure = 1

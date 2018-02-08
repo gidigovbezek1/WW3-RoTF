@@ -2,9 +2,9 @@ state={
 	id=2371
 	name="STATE_2371"
 	history={
-		owner = FRA
+		owner = CMR
 		add_core_of = TCH
-		add_claim_by = CMR
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 1
 		}

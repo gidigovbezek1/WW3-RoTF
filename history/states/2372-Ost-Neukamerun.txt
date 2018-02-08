@@ -6,9 +6,9 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = CMR
 		add_core_of = CEA
-		add_claim_by = CMR
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 2
 

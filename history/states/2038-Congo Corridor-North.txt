@@ -3,8 +3,9 @@ state={
 	name="STATE_2038"
 
 	history={
-		owner = FRA
+		owner = CMR
 		add_core_of = CEA
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 2
 

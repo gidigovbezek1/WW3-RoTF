@@ -3,7 +3,7 @@ state={
 	name="STATE_2366"
 
 	history={
-		owner = ENG
+		owner = TOG
 		add_core_of = TOG
 		add_core_of = GHA
 		buildings = {

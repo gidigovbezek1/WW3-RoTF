@@ -4,7 +4,7 @@ state={
 	name="STATE_2267"
 	impassable=yes
 	history={
-		owner = FRA
+		owner = MAU
 		add_core_of = MAU
 		victory_points = {
 			5034 1 

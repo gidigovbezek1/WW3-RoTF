@@ -5,7 +5,7 @@ state={
 		tungsten=2.000
 	}
 	history={
-		owner = BEL
+		owner = COG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

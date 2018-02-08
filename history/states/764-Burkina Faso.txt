@@ -2,7 +2,7 @@ state={
 	id=764
 	name="STATE_764"
 	history={
-		owner = FRA
+		owner = BUR
 		add_core_of = BUR
 		victory_points = {
 			10836 1

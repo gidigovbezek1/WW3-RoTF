@@ -4,9 +4,9 @@ state={
 	name="STATE_2036"
 
 	history={
-		owner = FRA
+		owner = CMR
 		add_core_of = GAB
-		add_claim_by = CMR
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 1
 

@@ -5,8 +5,9 @@ state={
 		13263 
 	}
 	history={
-		owner = FRA
+		owner = CMR
 		add_core_of = FCO
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 2
 
