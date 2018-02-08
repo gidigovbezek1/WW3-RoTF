@@ -10,6 +10,8 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = GER
+		add_core_of = PRS
+
 	}
 	provinces={
 		9496 11505 

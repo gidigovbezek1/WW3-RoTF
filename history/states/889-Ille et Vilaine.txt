@@ -11,6 +11,7 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = FRA
+		add_claim_by BRI
 	}
 	provinces={
 		527 9495 11508 

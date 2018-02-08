@@ -6,11 +6,12 @@ state={
 		aluminium=29.000
 	}
 	history={
-		owner = FRA
+		owner = VFR
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = FRA
+		add_core_of = VFR
+		add_claim_by = FFR
 	}
 	provinces={
 		762 3762 11713 

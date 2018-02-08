@@ -6,7 +6,7 @@ state={
 		aluminium=34.000
 	}
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			6613 10 
 		}
@@ -16,13 +16,8 @@ state={
 			industrial_complex = 2
 			air_base = 4
 		}
-		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
-			}
-		}
+		add_claim_by = FFR
+		add_core_of = VFR
 	}
 	provinces={
 		3770 6613 11593 11794 

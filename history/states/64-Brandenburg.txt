@@ -11,6 +11,7 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = GER
+		add_core_of = PRS
 	}
 	provinces={
 		3522 6487 11359 11468 9238 9375 

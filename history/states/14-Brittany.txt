@@ -1,8 +1,8 @@
-state={
+state={ #did genocide against French b/c breton national movement was laced with undemocratic elements and nazi collaborators
 	id=14
 	name="STATE_14"
 	history={
-		owner = FRA
+		owner = BRI
 		victory_points = {
 			3552 20 
 		}
@@ -13,12 +13,9 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-			}
-		}
+		add_core_of = BRI
+		add_claim_by = FFR
+		add_claim_by = FRA
 	}
 	provinces={
 		542 3552 

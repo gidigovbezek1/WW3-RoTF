@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			911 1 
 		}
@@ -20,8 +20,8 @@ state={
 			}
 
 		}
-		add_core_of = FRA
-
+		add_core_of = VFR
+		add_claim_by = FFR
 	}
 
 	provinces={

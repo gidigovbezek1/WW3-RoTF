@@ -5,9 +5,10 @@ state={
 		steel=18.000
 	}
 	history={
-		owner = FRA
+		owner = VFR
 		add_core_of = ALG
-		add_core_of = FRA
+		add_core_of = VFR
+		add_claim_by = FFR
 		victory_points = {
 			1145 5 
 		}

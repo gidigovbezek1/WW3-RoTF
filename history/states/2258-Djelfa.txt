@@ -4,9 +4,10 @@ state={
 	name="STATE_2258"
 
 	history={
-		owner = FRA
+		owner = VFR
 		add_core_of = ALG
-		add_core_of = FRA
+		add_core_of = VFR
+		add_claim_by = FFR
 		buildings = {
 			infrastructure = 2
 
