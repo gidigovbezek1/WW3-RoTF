@@ -7,8 +7,9 @@ state=
 	state_category = pastoral
 	history=
 	{
-		owner = ENG
+		owner = WIF
 		add_core_of = BLI
+		add_core_of = WIF
 		buildings = {
 			infrastructure = 4
 			2077 = {

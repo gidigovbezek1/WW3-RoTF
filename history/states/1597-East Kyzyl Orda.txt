@@ -3,11 +3,11 @@ state={
 	name="STATE_1597"
 	impassable=yes
 	history={
-		owner = SOV
+		owner = TKS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SOV
+		add_core_of = TKS
 		add_core_of = KAZ
 	}
 	provinces={

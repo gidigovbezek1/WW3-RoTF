@@ -2,7 +2,8 @@ state={
 	id=1117
 	name="STATE_1117"
 	history={
-		owner = DAG
+		owner = TCF
+		add_core_of = TCF
 		buildings = {
 			infrastructure = 4
 		}

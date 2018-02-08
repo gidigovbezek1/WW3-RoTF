@@ -6,10 +6,11 @@ state={
 		chromium=3.000
 	}
 	history={
-		owner = SIK
+		owner = TKS
 		add_core_of = SIK
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = TKS
 		buildings = {
 			infrastructure = 3
 		}

@@ -18,6 +18,7 @@ state={
 			}
 		}
 		add_core_of = PAN
+		add_core_of = UCA
 	}
 	
 	provinces={ 7617 }

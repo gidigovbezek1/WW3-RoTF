@@ -2,12 +2,12 @@ state={
 	id=584
 	name="STATE_584"
 	history={
-		owner = SOV
+		owner = TKS
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = SOV
+		add_core_of = TKS
 		add_core_of = TUK
 	}
 	provinces={

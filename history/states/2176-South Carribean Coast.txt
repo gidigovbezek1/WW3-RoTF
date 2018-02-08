@@ -4,12 +4,13 @@ state={
 	name="STATE_2176"
 
 	history={
-		owner = NIC
+		owner = UCA
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = NIC
+		add_core_of = UCA
 
 	}
 

@@ -5,8 +5,9 @@ state={
 		177 
 	}
 	history={
-		owner = FRA
+		owner = WIF
 		add_core_of = MAT
+		add_core_of = WIF
 		buildings = {
 			infrastructure = 4
 			air_base = 1

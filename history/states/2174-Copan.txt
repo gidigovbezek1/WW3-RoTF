@@ -2,7 +2,7 @@ state={
 	id=2174
 	name="STATE_2174"
 	history={
-		owner = HON
+		owner = UCA
 		buildings = {
 			infrastructure = 4
 			8017 = {
@@ -10,6 +10,7 @@ state={
 			}
 		}
 		add_core_of = HON
+		add_core_of = UCA
 	}
 	provinces={
 		8017 

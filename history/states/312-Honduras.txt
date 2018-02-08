@@ -5,7 +5,7 @@ state={
 		chromium=1.000
 	}
 	history={
-		owner = HON
+		owner = UCA
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -16,6 +16,7 @@ state={
 			}
 		}
 		add_core_of = HON
+		add_core_of = UCA
 		victory_points = {
 			12865 3 
 		}

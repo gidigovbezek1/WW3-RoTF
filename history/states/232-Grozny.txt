@@ -5,11 +5,11 @@ state={
 		oil=13.000
 	}
 	history={
-		owner = DAG
+		owner = TCF
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = SOV
+		add_core_of = TCF
 		add_core_of = DAG
 	}
 	provinces={

@@ -2,11 +2,12 @@ state={
 	id=2173
 	name="STATE_2173"
 	history={
-		owner = HON
+		owner = UCA
 		buildings = {
 			infrastructure = 4
 		}
 		add_core_of = HON
+		add_core_of = UCA
 	}
 	provinces={
 		2031 

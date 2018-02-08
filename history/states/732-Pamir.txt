@@ -1,14 +1,19 @@
+
 state={
 	id=732
 	name="STATE_732"
+
 	history={
-		owner = SOV
+		owner = TKS
 		buildings = {
 			infrastructure = 1
+
 		}
-		add_core_of = SOV
+		add_core_of = TKS
 		add_core_of = KYR
+
 	}
+
 	provinces={
 		1591 4224 12583 
 	}

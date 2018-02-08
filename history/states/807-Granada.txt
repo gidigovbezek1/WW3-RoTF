@@ -2,8 +2,9 @@ state={
 	id=807
 	name="STATE_807"
 	history={
-		owner = ENG
+		owner = WIF
 		add_core_of = GNA
+		add_core_of = WIF
 		buildings = {
 			infrastructure = 4
 		}

@@ -8,8 +8,9 @@ state={
 	
 	state_category = rural
 	history={
-		owner = ENG
+		owner = WIF
 		add_core_of = TRI
+		add_core_of = WIF
 		buildings = {
 			infrastructure = 3
 			3284 = {

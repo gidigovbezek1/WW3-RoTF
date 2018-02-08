@@ -5,11 +5,12 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = GUA
+		owner = UCA
 		buildings = {
 			infrastructure = 4
 		}
 		add_core_of = GUA
+		add_core_of = UCA
 	}
 	provinces={
 		4991 
