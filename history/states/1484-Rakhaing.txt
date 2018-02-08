@@ -4,12 +4,9 @@ state={
 	history={
 		owner = RAJ
 		add_core_of = MYA
+		add_claim_by = RAJ
 		buildings = {
 			infrastructure = 4
-		}
-		1937.4.1 = {
-			owner = MYA
-			controller = MYA
 		}
 	}
 	provinces={

@@ -5,7 +5,7 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = NEP
+		owner = RAJ
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -15,6 +15,7 @@ state={
 			4987 3 
 		}
 		add_core_of = NEP
+		add_core_of = RAJ
 	}
 	provinces={
 		4987 5310 12892 

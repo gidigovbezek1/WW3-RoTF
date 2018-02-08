@@ -5,7 +5,7 @@ state={
 		oil=5.000
 	}
 	history={
-		owner = IRQ
+		owner = SAU
 		victory_points = {
 			2097 5 
 		}
@@ -15,7 +15,7 @@ state={
 			industrial_complex = 2
 			air_base = 4
 		}
-		add_core_of = IRQ
+		add_core_of = SAU
 	}
 	provinces={
 		2097 

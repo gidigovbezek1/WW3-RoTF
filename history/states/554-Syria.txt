@@ -2,7 +2,7 @@ state={
 	id=554
 	name="STATE_554"
 	history={
-		owner = FRA
+		owner = SAU
 		victory_points = {
 			4111 3 
 		}
@@ -10,7 +10,7 @@ state={
 			infrastructure = 3
 			air_base = 1
 		}
-		add_core_of = SYR
+		add_core_of = SAU
 	}
 	provinces={
 		4111 4550 7184 
