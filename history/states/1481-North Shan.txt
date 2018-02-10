@@ -2,14 +2,10 @@ state={
 	id=1481
 	name="STATE_1481"
 	history={
-		owner = RAJ
+		owner = MYA
 		add_core_of = MYA
 		buildings = {
 			infrastructure = 3
-		}
-		1937.4.1 = {
-			owner = MYA
-			controller = MYA
 		}
 	}
 	provinces={

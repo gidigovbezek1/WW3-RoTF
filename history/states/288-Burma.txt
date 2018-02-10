@@ -5,7 +5,7 @@ state={
 		rubber=4.000
 	}
 	history={
-		owner = RAJ
+		owner = MYA
 		add_core_of = MYA
 		victory_points = {
 			1330 5 
@@ -17,10 +17,6 @@ state={
 			1330 = {
 				naval_base = 4
 			}
-		}
-		1937.4.1 = {
-			owner = MYA
-			controller = MYA
 		}
 	}
 	provinces={

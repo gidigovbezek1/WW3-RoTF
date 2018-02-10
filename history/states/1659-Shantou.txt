@@ -2,19 +2,12 @@ state={
 	id=1659
 	name="STATE_1659"
 	history={
-		owner = GXC
+		owner = CHI
 		add_core_of = GXC
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 3
-		}
-		1938.10.25 = {
-			remove_core_of = GXC
-			owner = CHI
-			JAP = {
-				set_province_controller = 4050
-			}
 		}
 	}
 	provinces={

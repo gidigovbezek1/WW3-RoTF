@@ -2,7 +2,7 @@ state={
 	id=1660
 	name="STATE_1660"
 	history={
-		owner = GXC
+		owner = CHI
 		add_core_of = GXC
 		add_core_of = CHI
 		add_core_of = PRC
@@ -12,13 +12,6 @@ state={
 				naval_base = 1
 				coastal_bunker = 1
 				bunker = 1
-			}
-		}
-		1938.10.25 = {
-			remove_core_of = GXC
-			owner = CHI
-			JAP = {
-				set_province_controller = 9938
 			}
 		}
 	}

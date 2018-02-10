@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = AFG
 		add_core_of = PER
+		add_claim_by = RAJ
 	}
 	provinces={
 		7916 12769 12831 

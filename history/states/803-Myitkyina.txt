@@ -2,15 +2,11 @@ state={
 	id=803
 	name="STATE_803"
 	history={
-		owner = RAJ
+		owner = MYA
 		add_core_of = MYA
 		add_claim_by = CHI
 		buildings = {
 			infrastructure = 3
-		}
-		1937.4.1 = {
-			owner = MYA
-			controller = MYA
 		}
 	}
 	provinces={

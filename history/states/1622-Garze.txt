@@ -10,15 +10,6 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		1938.1.20 = {
-			owner = CHI
-			controller = CHI
-		}
-		1939.1.1 = {
-			buildings = {
-				infrastructure = 2
-			}
-		}
 	}
 	provinces={
 		1918 7988 8104 10903 12724 12837 

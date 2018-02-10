@@ -1,5 +1,5 @@
 state={
-	id=1769
+	id=1769#fix chinese cores?
 	name="STATE_1769"
 	history={
 		owner = MAN

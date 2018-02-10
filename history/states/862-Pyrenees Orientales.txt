@@ -10,6 +10,8 @@ state={
 
 		}
 		add_core_of = SPR
+		add_claim_by = FFR
+		add_claim_by = VFR
 		add_core_of = CAT
 
 	}

@@ -2,9 +2,10 @@ state={
 	id=595
 	name="STATE_595"
 	history={
-		owner = CHI
+		owner = JAP
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = JAP
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -16,11 +17,6 @@ state={
 		}
 		victory_points = {
 			4196 3 
-		}
-		1938.10.25 = {
-			JAP = {
-				set_province_controller = 4196
-			}
 		}
 	}
 	provinces={

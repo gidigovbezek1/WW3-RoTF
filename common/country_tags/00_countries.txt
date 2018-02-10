@@ -112,7 +112,7 @@ PAK = "countries/Pakistan.txt"
 BOT = "countries/Botswana.txt"
 MAN = "countries/Manchukou.txt"
 
-#
+#ues
 MAC = "countries/macedonia.txt"
 KOS = "countries/kosovo.txt"
 SLV = "countries/slovenia.txt"
@@ -296,12 +296,12 @@ TAT = "countries/tatarstan.txt"
 KRA = "countries/krasnoyarsk.txt"
 SAR = "countries/sardinia.txt"
 SCH = "countries/sichuan.txt"
+#UES+
 SYM = "countries/southyemen.txt"
 SML = "countries/somaliland.txt"
 NNG = "countries/northnewguinea.txt"
 WNG = "countries/westguinea.txt"
 NCL = "countries/newcaledonia.txt"
-#UES+
 BHR = "countries/bahrain.txt"
 ADR = "countries/andorra.txt"
 BOU = "countries/bouvetisland.txt"

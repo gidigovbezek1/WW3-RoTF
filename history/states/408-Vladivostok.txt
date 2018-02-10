@@ -6,7 +6,7 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = FAE
+		add_core_of = JAP
 		victory_points = {
 			957 15 
 		}
@@ -19,7 +19,10 @@ state={
 				coastal_bunker = 3
 			}
 		}
-		add_core_of = SOV
+		add_claim_by = SOV
+		add_core_of = MAN
+		add_core_of = FAE
+		add_core_of = JAP
 	}
 	provinces={
 		957 3977 11879 

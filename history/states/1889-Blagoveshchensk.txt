@@ -5,12 +5,14 @@ state={
 		steel=4.000
 	}
 	history={
-		owner = SOV
+		owner = JAP
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SOV
+		add_core_of = JAP
+		add_core_of = MAN
 		add_core_of = FAE
+		add_claim_by = SOV
 	}
 	provinces={
 		4725 7763 10655 12654 

@@ -2,8 +2,8 @@ state={
 	id=591
 	name="STATE_591"
 	history={
-		owner = GXC
-		add_core_of = GXC
+		owner = JAP
+		add_core_of = JAP
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
@@ -15,11 +15,6 @@ state={
 			1070 = {
 				naval_base = 2
 			}
-		}
-		1938.10.25 = {
-			remove_core_of = GXC
-			owner = CHI
-			controller = JAP
 		}
 	}
 	provinces={

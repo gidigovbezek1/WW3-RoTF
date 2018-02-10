@@ -5,7 +5,7 @@ state={
 		tungsten=54.000
 	}
 	history={
-		owner = RAJ
+		owner = BHU
 		add_core_of = CHI
 		add_core_of = PRC
 		add_core_of = RAJ

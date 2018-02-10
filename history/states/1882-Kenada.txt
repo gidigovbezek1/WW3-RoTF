@@ -5,12 +5,14 @@ state={
 		chromium=3.000
 	}
 	history={
-		owner = SOV
-		add_core_of = FAE
+		owner = JAP
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SOV
+		add_claim_by = SOV
+		add_core_of = MAN
+		add_core_of = FAE
+		add_core_of = JAP
 	}
 	provinces={
 		1343 4404 7249 7309 9733 12136 
