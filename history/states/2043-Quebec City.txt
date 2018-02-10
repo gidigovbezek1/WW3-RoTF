@@ -2,7 +2,7 @@ state={
 	id=2043
 	name="STATE_2043"
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 6
 			12149 = {
@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = QBC
+		add_core_of = USA
 		victory_points = {
 			12149 3 
 		}

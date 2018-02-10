@@ -6,7 +6,7 @@ state={
 		tungsten=8.000
 	}
 	history={
-		owner = ENG
+		owner = ZIM
 		buildings = {
 			infrastructure = 1
 		}
