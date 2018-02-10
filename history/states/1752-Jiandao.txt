@@ -7,6 +7,7 @@ state={
 		add_core_of = JAP
 		add_claim_by = CHI
 		add_claim_by = PRC
+		add_claim_by = KOR
 		buildings = {
 			infrastructure = 3
 		}

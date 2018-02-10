@@ -7,8 +7,10 @@ state=
 	
 	history=
 	{
-		owner = USA
+		owner = JAP
 		add_core_of = ALA
+		add_core_of = JAP
+		add_core_of = USA
 		victory_points = {
 			13067 1 
 		}

@@ -2,7 +2,7 @@ state={
 	id=637
 	name="STATE_637"
 	history={
-		owner = SOV
+		owner = JAP
 		buildings = {
 			infrastructure = 2
 			12207 = {
@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = FAE
+		add_core_of = JAP
 	}
 	provinces={
 		1823 1839 1863 4728 7878 12207 12522 

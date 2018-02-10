@@ -4,14 +4,14 @@ state={
 	name="STATE_2042"
 
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 6
 
 		}
 		add_core_of = CAN
 		add_core_of = QBC
-
+		add_core_of = USA
 	}
 
 	provinces={

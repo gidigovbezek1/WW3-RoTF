@@ -1213,10 +1213,6 @@ TCF = {
  color = rgb { 239 219 137 }
  color_ui = rgb { 239 219 137 }
 }
-FFR = {
- color = rgb { 69 242 252 }
- color_ui = rgb { 69 242 252 }
-}
 CPV = {
  color = rgb { 128 128 0 }
  color_ui = rgb { 128 128 0 }
@@ -1233,7 +1229,10 @@ VFR = {
  color = rgb { 102 179 255 }
  color_ui = rgb { 102 179 255 }
 }
-
+FFR = {
+	color = rgb { 51 153 204 }
+	color_ui = rgb { 77 102 153 }
+}
 
 
 

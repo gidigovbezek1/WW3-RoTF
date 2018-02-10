@@ -2,7 +2,7 @@ state={
 	id=739
 	name="STATE_739"
 	history={
-		owner = CAN
+		owner = USA
 		add_core_of = CAS
 		buildings = {
 			infrastructure = 1
@@ -11,6 +11,7 @@ state={
 			}
 		}
 		add_core_of = CAN
+		add_core_of = USA
 	}
 	provinces={
 		1869

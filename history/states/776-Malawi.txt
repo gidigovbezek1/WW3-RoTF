@@ -4,7 +4,7 @@ state={
 	name="STATE_776"
 
 	history={
-		owner = ENG
+		owner = ZIM
 		add_core_of = MLW
 		add_core_of = MAF
 		victory_points = {

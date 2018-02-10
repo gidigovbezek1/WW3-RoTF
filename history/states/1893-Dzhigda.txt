@@ -4,6 +4,7 @@ state={
 	history={
 		owner = JAP
 		add_core_of = FAE
+		add_core_of = MAN
 		buildings = {
 			infrastructure = 1
 		}
