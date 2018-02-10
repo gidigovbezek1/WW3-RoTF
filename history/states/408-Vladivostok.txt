@@ -5,7 +5,8 @@ state={
 		chromium=4.000
 	}
 	history={
-		owner = JAP
+		owner = SOV
+		add_core_of = JAP
 		victory_points = {
 			957 15 
 		}

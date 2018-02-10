@@ -13,7 +13,6 @@ state={
 		}
 		add_claim_by = SOV
 		add_core_of = SAH
-		add_core_of = MAN
 		add_core_of = FAE
 		add_core_of = JAP
 	}

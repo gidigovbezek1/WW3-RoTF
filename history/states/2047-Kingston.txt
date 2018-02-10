@@ -2,12 +2,11 @@ state={
 	id=2047
 	name="STATE_2047"
 	history={
-		owner = USA
+		owner = CAN
 		buildings = {
 			infrastructure = 7
 		}
 		add_core_of = CAN
-		add_core_of = USA
 	}
 	provinces={
 		605 3605 3608 3661 9634 11567 11585 

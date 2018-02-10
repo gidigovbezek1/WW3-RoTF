@@ -4,13 +4,12 @@ state={
 	name="STATE_472"
 	impassable = yes
 	history={
-		owner = USA
+		owner = CAN
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = CAN
-		add_core_of = USA
 
 	}
 

@@ -1,5 +1,5 @@
 state={
-	id=2320 #add cores
+	id=2320
 	name="STATE_2320"
 	history={
 		owner = USA

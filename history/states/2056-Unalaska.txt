@@ -2,12 +2,11 @@ state={
 	id=2056
 	name="STATE_2056"
 	history={
-		owner = JAP
+		owner = USA
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = USA
-		add_core_of = JAP
 		add_core_of = ALA
 		victory_points = {
 			13090 1 

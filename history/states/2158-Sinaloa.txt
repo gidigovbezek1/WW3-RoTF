@@ -1,22 +1,16 @@
-
 state={
 	id=2158
 	name="STATE_2158"
-
 	history={
 		owner = MEX
 		buildings = {
 			infrastructure = 3
 			8057 = {
 				naval_base = 3
-
 			}
-
 		}
 		add_core_of = MEX
-
 	}
-
 	provinces={
 		1945 8057 10895 
 	}
