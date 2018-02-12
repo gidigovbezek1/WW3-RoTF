@@ -18,7 +18,7 @@ state={
 		add_core_of = CRO
 	}
 	provinces={
-		984 3924 3974 11901 
+		3924 11901 
 	}
 	manpower=477233
 	buildings_max_level_factor=1.000

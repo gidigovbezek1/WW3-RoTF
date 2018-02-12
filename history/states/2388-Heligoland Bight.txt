@@ -1,0 +1,20 @@
+state={
+	id=2388
+	name="STATE_2388"
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 6
+			13296 = {
+				naval_base = 8
+			}
+			air_base = 3
+		}
+		}
+	provinces={
+		13277
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = tiny_island
+}

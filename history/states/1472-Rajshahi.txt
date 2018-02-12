@@ -4,7 +4,6 @@ state={
 	history={
 		owner = BAN
 		add_core_of = BAN
-		add_core_of = BAJ
 		buildings = {
 			infrastructure = 5
 		}
