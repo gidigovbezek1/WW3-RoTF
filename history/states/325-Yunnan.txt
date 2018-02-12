@@ -17,9 +17,6 @@ state={
 			arms_factory = 1
 			industrial_complex = 3
 		}
-		1938.10.25 = {
-			owner = CHI
-		}
 	}
 	provinces={
 		1319 4192 7446 7606 12282 

@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = TAN
 		victory_points = {
 			4797 3 
 		}
@@ -18,6 +18,7 @@ state={
 			air_base = 1
 
 		}
+		add_core_of = TAN
 		add_core_of = SOV
 
 	}

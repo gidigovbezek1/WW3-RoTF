@@ -10,11 +10,12 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = JAP
 		buildings = {
 			infrastructure = 4
 
 		}
+		add_core_of = JAP
 		add_core_of = SOV
 		add_core_of = FAE
 		add_core_of = BRY
