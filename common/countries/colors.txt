@@ -1372,3 +1372,23 @@ VFR = {
  color = rgb { 64 224 253 }
  color_ui = rgb { 64 224 253 }
 }
+URA = {
+ color = rgb { 177 99 99 }
+ color_ui = rgb { 177 99 99 }
+}
+LIV = {
+ color = rgb { 225 0 181 }
+ color_ui = rgb { 225 0 181 }
+}
+CID = {
+ color = rgb { 215 0 0 }
+ color_ui = rgb { 215 0 0 }
+}
+FID = {
+ color = rgb { 166 166 0 }
+ color_ui = rgb { 166 166 0 }
+}
+BAT = {
+ color = rgb { 0 0 0 }
+ color_ui = rgb { 0 0 0 }
+}

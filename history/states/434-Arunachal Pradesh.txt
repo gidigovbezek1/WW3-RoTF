@@ -5,8 +5,9 @@ state={
 		tungsten=54.000
 	}
 	history={
-		owner = BHU
+		owner = FID
 		add_core_of = CHI
+		add_core_of = FID
 		add_core_of = PRC
 		add_core_of = RAJ
 		add_core_of = TIB

@@ -10,12 +10,13 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = URA
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
+		add_core_of = URA
 	}
 
 	provinces={

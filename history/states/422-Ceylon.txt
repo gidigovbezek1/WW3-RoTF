@@ -9,7 +9,8 @@ state=
 		rubber=116
 	}
 	history={
-		owner = ENG
+		owner = CID
+		add_core_of = CID
 		add_core_of = SRI
 		victory_points = {
 			10201 3 
