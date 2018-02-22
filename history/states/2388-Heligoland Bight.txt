@@ -5,9 +5,6 @@ state={
 		owner = GER
 		buildings = {
 			infrastructure = 6
-			13296 = {
-				naval_base = 8
-			}
 			air_base = 3
 		}
 		}

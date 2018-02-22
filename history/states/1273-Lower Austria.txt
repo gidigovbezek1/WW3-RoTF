@@ -7,11 +7,7 @@ state={
 			infrastructure = 7
 		}
 		add_core_of = AUS
-		1938.3.12 = {
-			owner = GER
-			controller = GER
-			add_core_of = GER
-		}
+		add_core_of = GER
 	}
 	provinces={
 		704 3718 6552 6690 6739 9527 

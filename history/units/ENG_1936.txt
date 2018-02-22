@@ -891,17 +891,6 @@ air_wings = {
 			amount = 32
 		}
 	}
-	659 = { 
-		### RAF Aden
-		fighter_equipment_0 = {
-			owner = "ENG" 
-			amount = 24
-		}
-		CAS_equipment_1 = {
-			owner = "ENG" 
-			amount = 16
-		}
-	}
 
 	### RAF Far East
 	336 = { 
