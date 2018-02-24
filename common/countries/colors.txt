@@ -1281,19 +1281,17 @@ SCH = {
  color = rgb { 0 0 128 }
  color_ui = rgb { 0 0 128 }
 }
-
-#UES+
 SYM = {
- color = rgb { 233 219 171 }
- color_ui = rgb { 233 219 171 }
+ color = rgb { 229 198 92 }
+ color_ui = rgb { 229 198 92 }
 }
 SML = {
  color = rgb { 201 168 54 }
  color_ui = rgb { 201 168 54 }
 }
 NNG = {
- color = rgb { 95 35 83 }
- color_ui = rgb { 95 35 83 }
+ color = rgb { 108 166 205 }
+ color_ui = rgb { 108 166 205 }
 }
 WNG = {
  color = rgb { 255 128 0 }
@@ -1331,7 +1329,6 @@ VAT = {
  color = rgb { 255 255 193 }
  color_ui = rgb { 225 255 193 }
 }
-#RoTF
 TCF = {
  color = rgb { 128 0 255 }
  color_ui = rgb { 128 0 255 }

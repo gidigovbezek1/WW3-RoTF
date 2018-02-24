@@ -3,4 +3,4 @@
 graphical_culture = asian_gfx
 graphical_culture_2d = commonwealth_2d
 
-color = { 215 0 0 }
+color = { 106 119 89 }

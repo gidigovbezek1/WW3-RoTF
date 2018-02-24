@@ -296,7 +296,8 @@ TAT = "countries/tatarstan.txt"
 KRA = "countries/krasnoyarsk.txt"
 SAR = "countries/sardinia.txt"
 SCH = "countries/sichuan.txt"
-#UES+
+
+#
 SYM = "countries/southyemen.txt"
 SML = "countries/somaliland.txt"
 NNG = "countries/northnewguinea.txt"
@@ -309,7 +310,6 @@ LIE = "countries/liechtenstein.txt"
 MNA = "countries/monaco.txt"
 SNM = "countries/sanmarino.txt"
 VAT = "countries/vaticancity.txt"
-#RoTF
 TCF = "countries/transcaucasia.txt"
 TKS = "countries/turkestan.txt"
 WIF = "countries/wif.txt"

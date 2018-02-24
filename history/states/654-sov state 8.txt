@@ -12,10 +12,11 @@ state={
 		add_core_of = SOV
 		add_core_of = ALT
 		add_core_of = TKS
+
 	}
 
 	provinces={
-		1702 4781 4800 7804 7819 10531 10713 12509 
+		1702 4781 4800 10531 10713 12509 
 	}
 	manpower=153510
 	buildings_max_level_factor=1.000
