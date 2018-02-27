@@ -2,7 +2,7 @@ state={
 	id=263
 	name="STATE_263"
 	history={
-		owner = SOV
+		owner = NOV
 		victory_points = {
 			117 5 
 		}
@@ -10,6 +10,7 @@ state={
 			infrastructure = 5
 			air_base = 2
 		}
+		add_core_of = NOV
 		add_core_of = SOV
 	}
 	provinces={

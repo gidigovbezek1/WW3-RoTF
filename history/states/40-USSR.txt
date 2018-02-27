@@ -4,13 +4,14 @@ state={
 	name="STATE_40"
 
 	history={
-		owner = SOV
+		owner = ISB
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 
 		}
 		add_core_of = SOV
+		add_core_of = ISB
 	}
 
 	provinces={

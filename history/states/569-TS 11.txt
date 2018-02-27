@@ -4,15 +4,14 @@ state={
 	name="STATE_569"
 
 	history={
-		owner = TAN
+		owner = ISB
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 
 		}
-		add_core_of = TAN
+		add_core_of = ISB
 		add_core_of = SOV
-		add_claim_by = CHI
 
 	}
 

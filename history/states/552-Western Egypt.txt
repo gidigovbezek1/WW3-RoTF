@@ -1,18 +1,19 @@
 state={
 	id=552
 	name="STATE_552"
-	impassable = yes
-	history={
-		owner = EGY
+		history={
+		owner = BRA
 		buildings = {
-			infrastructure = 0
+			infrastructure = 1
 		}
-		add_core_of = EGY
+		add_core_of = BOL
+		add_core_of = BRA
+
 	}
 	provinces={
-		2064 10907 12099 12733 12816 
+		13285 
 	}
-	manpower=7961
+	manpower=5000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category = enclave
 }

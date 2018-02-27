@@ -7,7 +7,7 @@ state=
 	state_category = rural
 	history=
 	{
-		owner = GER
+		owner = CRE
 		victory_points = {
 			9940 1 
 		}
@@ -23,6 +23,7 @@ state=
 			}
 		}
 		add_core_of = GER
+		add_core_of = CRE
 		add_claim_by = GRE
 	}
 	provinces=

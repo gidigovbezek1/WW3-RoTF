@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = VFR
+		owner = BRG
 		victory_points = {
 			911 1 
 		}
@@ -22,6 +22,7 @@ state={
 		}
 		add_core_of = VFR
 		add_claim_by = FFR
+		add_core_of = BRG
 	}
 
 	provinces={

@@ -2,12 +2,13 @@ state={
 	id=2295
 	name="STATE_2295"
 	history={
-		owner = KEN
+		owner = EAC
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = KEN
 		add_core_of = MAF
+		add_core_of = EAC
 	}
 	provinces={
 		1939 5160 10860 10962 

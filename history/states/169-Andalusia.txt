@@ -13,7 +13,7 @@ state={
 			air_base = 3
 		}
 		add_core_of = SPR
-		add_core_of = AND
+		add_core_of = ADR
 	}
 	provinces={
 		1178 4182 7098 7183 9891 10094 

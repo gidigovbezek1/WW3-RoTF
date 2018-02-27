@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = UGA
+		owner = EAC
 		victory_points = {
 			12989 1 
 		}
@@ -17,7 +17,7 @@ state={
 		}
 		add_core_of = UGA
 		add_core_of = MAF
-
+		add_core_of = EAC
 	}
 
 	provinces={

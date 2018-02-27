@@ -4,7 +4,7 @@ state={
 	manpower = 2552075
 	state_category = city
 	history={
-		owner = SOV
+		owner = NOV
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -13,6 +13,7 @@ state={
 			1278 1 
 		}
 		add_core_of = SOV
+		add_core_of = NOV
 		add_core_of = TAT
 	}
 	provinces={

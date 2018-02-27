@@ -2,7 +2,7 @@ state={
 	id=2347
 	name="STATE_2347"
 	history={
-		owner = ZAN
+		owner = EAC
 		buildings = {
 			infrastructure = 3
 			
@@ -13,6 +13,7 @@ state={
 		add_core_of = TAZ
 		add_core_of = ZAN
 		add_core_of = MAF
+		add_core_of = EAC
 	}
 	provinces={
 		13240 

@@ -6,7 +6,7 @@ state={
 		tungsten=8.000
 	}
 	history={
-		owner = ZIM
+		owner = CAF
 		buildings = {
 			infrastructure = 1
 		}
@@ -14,6 +14,7 @@ state={
 			10929 1 
 		}
 		add_core_of = ZIM
+		add_core_of = CAF
 		add_claim_by = POR
 	}
 	provinces={

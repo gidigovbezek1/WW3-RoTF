@@ -4,9 +4,10 @@ state={
 	name="STATE_866"
 
 	history={
-		owner = VFR
+		owner = BRG
 		add_core_of = VFR
 		add_claim_by = FFR
+		add_core_of = BRG
 		buildings = {
 			infrastructure = 4
 
@@ -15,7 +16,7 @@ state={
 	}
 
 	provinces={
-		3961 6975 13265 13266 
+		3961 6975 
 	}
 	manpower=181500
 	buildings_max_level_factor=1.000

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = VFR
+		owner = BRG
 		buildings = {
 			infrastructure = 6
 
@@ -15,7 +15,7 @@ state={
 		add_core_of = SWI
 		add_claim_by = FFR
 		add_core_of = AUS
-
+		add_core_of = BRG
 	}
 
 	provinces={

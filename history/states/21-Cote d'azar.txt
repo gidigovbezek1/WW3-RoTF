@@ -5,7 +5,7 @@ state={
 		aluminium=60.000
 	}
 	history={
-		owner = VFR
+		owner = BRG
 		victory_points = {
 			11834 10 
 		}
@@ -17,6 +17,7 @@ state={
 		}
 		add_core_of = VFR
 		add_claim_by = FFR
+		add_core_of = BRG
 	}
 	provinces={
 		11834 11849 

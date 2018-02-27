@@ -1,22 +1,25 @@
-
 state={
 	id=663
 	name="STATE_663"
-	impassable=yes
+	state_category = wasteland
 	history={
-		owner = ITA
-		buildings = {
-			infrastructure = 1
-
+		owner = JAP
+		victory_points = {
+			10641 1
 		}
-		add_core_of = LBA
-
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+		add_claim_by = SOV
+		add_core_of = SAH
+		add_core_of = MAN
+		add_core_of = FAE
+		add_core_of = JAP
 	}
-
 	provinces={
-		1060 1186 4133 4200 9977 10785 11951 12079 
+		1748 1795 1878 4726 4752 4798 4821 4855 7746 7844 7889 10608 10667 10701 10714 12565 12623 12694 
 	}
-	manpower=8808
+	manpower=5000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
 }

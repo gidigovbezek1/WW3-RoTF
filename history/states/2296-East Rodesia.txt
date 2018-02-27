@@ -6,9 +6,10 @@ state={
 		tungsten=4.000
 	}
 	history={
-		owner = ZIM
+		owner = CAF
 		add_core_of = ZAM
 		add_core_of = MAF
+		add_core_of = CAF
 		buildings = {
 			infrastructure = 1
 		}

@@ -5,11 +5,12 @@ state={
 		oil=8.000
 	}
 	history={
-		owner = SOV
+		owner = NOV
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = SOV
+		add_core_of = NOV
 	}
 	provinces={
 		198 6040 9121 9205 10723 11047 11119 11182 

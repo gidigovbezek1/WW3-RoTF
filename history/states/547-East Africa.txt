@@ -2,7 +2,7 @@ state={
 	id=547
 	name="STATE_547"
 	history={
-		owner = KEN
+		owner = EAC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -15,6 +15,7 @@ state={
 		}
 		add_core_of = KEN
 		add_core_of = MAF
+		add_core_of = EAC
 	}
 	provinces={
 		5196 5210 6020 10761 10976 

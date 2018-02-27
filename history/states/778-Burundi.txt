@@ -5,8 +5,9 @@ state={
 		rubber=1.000
 	}
 	history={
-		owner = BRN
+		owner = EAC
 		add_core_of = BRN
+		add_core_of = EAC
 		buildings = {
 			infrastructure = 1
 		}

@@ -5,11 +5,12 @@ state={
 		aluminium=20.000
 	}
 	history={
-		owner = SOV
+		owner = NOV
 		buildings = {
 			infrastructure = 4
 		}
 		add_core_of = SOV
+		add_core_of = NOV
 	}
 	provinces={
 		272 3139 3146 3264 6089 6124 6171 6191 6383 9050 9146 9214 9370 11149 11354 

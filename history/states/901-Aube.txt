@@ -2,7 +2,7 @@ state={
 	id=901
 	name="STATE_901"
 	history={
-		owner = FRA
+		owner = BRG
 		victory_points = {
 			9490 5 
 		}
@@ -10,6 +10,7 @@ state={
 			infrastructure = 7
 		}
 		add_core_of = FRA
+		add_core_of = BRG
 	}
 	provinces={
 		3533 9490 11732 

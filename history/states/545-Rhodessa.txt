@@ -6,11 +6,12 @@ state={
 		tungsten=4.000
 	}
 	history={
-		owner = ZIM
+		owner = CAF
 		victory_points = {
 			5199 1 
 		}
 		add_core_of = ZAM
+		add_core_of = CAF
 		add_core_of = MAF
 		buildings = {
 			infrastructure = 1

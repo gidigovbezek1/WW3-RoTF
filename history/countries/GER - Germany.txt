@@ -43,8 +43,6 @@ set_technology = {
 
 
 
-
-
 set_research_slots = 4
 set_convoys = 200
 set_national_unity = 0.9
@@ -224,8 +222,139 @@ set_politics = {
 
 }
 
+#DIPLOMACY
+#Puppet means loyal vassal- colony means disloyal vassal, or colonial protectorate (like tunisia) -integrated puppet is colonial area (for settlement) - dominion means sig. influence
+if = {
+	limit = { 
+		has_dlc = "Together for Victory"
+		}
+	set_autonomy = {
+		target = BLR
+		autonomous_state = autonomy_integrated_puppet
+		}
+	set_autonomy = {
+		target = UKR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = URA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = BAT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = DEN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = NOR
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = BEL
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = HOL
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = FIN
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = ITA
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = VFR
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = FRA
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = BRI
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = SWE
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = CRO
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = SER
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = ALB
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = GRE
+		autonomous_state = autonomy_colony
+	}
+	
+	else = {
+		puppet = BLR
+		puppet = UKR
+		puppet = URA
+		puppet = BAT
+		puppet = FRA
+		puppet = ITA
+		puppet = VFR
+		puppet = BRI
+		puppet = BEL
+		puppet = HOL
+		puppet = DEN
+		puppet = SWE
+		puppet = CRO
+		puppet = SER
+		puppet = ALB
+		puppet = GRE
+		puppet = NOR
+	}
+}
+
+
 create_faction = Axis
 add_to_faction = GER
+add_to_faction = HOL
+add_to_faction = BEL
+add_to_faction = ITA
+add_to_faction = BAT
+add_to_faction = BUL
+add_to_faction = SWE
+add_to_faction = NOR
+add_to_faction = DEN
+add_to_faction = SLO
+add_to_faction = HUN
+add_to_faction = VFR
+add_to_faction = FRA
+add_to_faction = CRO
+add_to_faction = URA
+add_to_faction = ALB
+add_to_faction = GRE
+add_to_faction = SER
+add_to_faction = ROM
+add_to_faction = BLR
+add_to_faction = UKR
+add_to_faction = BRI
+add_to_faction = SAU
+add_to_faction = PER
+add_to_faction = TKS
+add_to_faction = TUR
+add_to_faction = EGY
+add_to_faction = SPR
+add_to_faction = POR
+add_to_faction = PAK
+add_to_faction = FIN
 
 
 add_ideas = {

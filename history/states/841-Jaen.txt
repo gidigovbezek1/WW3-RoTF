@@ -7,7 +7,7 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = SPR
-		add_core_of = AND
+		add_core_of = ADR
 	}
 	provinces={
 		950 1090 1192 4095 10111 12083 

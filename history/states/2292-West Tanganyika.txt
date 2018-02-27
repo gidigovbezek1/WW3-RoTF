@@ -4,14 +4,15 @@ state={
 	name="STATE_2292"
 
 	history={
-		owner = TAG
+		owner = EAC
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = TAZ
-		add_core_of = TAG
+		add_core_of = TNG
 		add_core_of = MAF
+		add_core_of = EAC
 	}
 
 	provinces={

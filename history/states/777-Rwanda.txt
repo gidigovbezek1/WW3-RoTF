@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
-		owner = RWA
+		owner = EAC
 		add_core_of = RWA
+		add_core_of = EAC
 		buildings = {
 			infrastructure = 1
 

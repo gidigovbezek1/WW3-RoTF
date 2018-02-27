@@ -5,11 +5,12 @@ state={
 		chromium=15.000
 	}
 	history={
-		owner = SOV
+		owner = CAU
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = SOV
+		add_core_of = CAU
 	}
 	provinces={
 		3698 6721 9663 9674 

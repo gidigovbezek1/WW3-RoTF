@@ -13280,7 +13280,7 @@
 13279;69;52;86;lake;false;lakes;0
 13280;66;88;150;land;false;mountain;0
 13281;227;9;162;land;false;jungle;0
-13282;99;68;176;lake;false;lakes;0
+13282;99;68;176;land;false;mountain;0
 13283;147;239;74;land;false;forest;0
 13284;210;242;46;land;false;forest;0
 13285;77;27;69;land;false;jungle;0
@@ -13291,3 +13291,4 @@
 13290;76;93;253;land;false;forest;0
 13291;155;134;112;land;false;forest;0
 13292;62;88;150;sea;false;ocean;0
+13293;182;244;183;land;false;mountain;0

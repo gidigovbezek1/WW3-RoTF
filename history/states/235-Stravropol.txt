@@ -5,12 +5,13 @@ state={
 		chromium=20.000
 	}
 	history={
-		owner = SOV
+		owner = CAU
 		buildings = {
 			infrastructure = 4
 			air_base = 2
 		}
 		add_core_of = SOV
+		add_core_of = CAU
 	}
 	provinces={
 		3748 6750 9705 9707 9722 11693 11694 11727 

@@ -2,11 +2,13 @@ state={
 	id=769
 	name="STATE_769"
 	history={
-		owner = POR
+		owner = CAB
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = ANG
+		add_core_of = CAB
+		add_claim_by = POR
 	}
 	provinces={
 		2115 
