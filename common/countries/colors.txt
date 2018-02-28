@@ -1032,10 +1032,6 @@ CAU = {
  color = rgb { 0 159 159 }
  color_ui = rgb { 0 159 159 }
 }
-SRR = {
- color = rgb { 36 0 145 }
- color_ui = rgb { 36 0 145 }
-}
 CRE = {
  color = rgb { 0 55 111 }
  color_ui = rgb { 0 55 111 }
@@ -1043,10 +1039,6 @@ CRE = {
 ISB = {
 	color = rgb { 164 164 164 }
 	color_ui = rgb { 164 164 164 }
-}
-CAB = {
-	color = rgb { 14 69 32 }
-	color_ui = rgb { 14 69 32 }
 }
 EAC = {
 	color = rgb { 153 57 240 }
@@ -1059,6 +1051,26 @@ CAF = {
 BRG = {
 	color = rgb { 128 0 32 }
 	color_ui = rgb { 128 0 32 }
+}
+SCA = {
+	color = rgb { 108 189 238 }
+	color_ui = rgb { 108 189 238 }
+}
+VCS = {
+	color = rgb { 0 121 121 }
+	color_ui = rgb { 0 121 121 }
+}
+UCR = {
+	color = rgb { 186 145 82 }
+	color_ui = rgb { 186 145 82 }
+}
+TRN = {
+	color = rgb { 255 170 13 }
+	color_ui = rgb { 255 170 13 }
+}
+DVR = {
+	color = rgb { 143 137 52 }
+	color_ui = rgb { 143 137 52 }
 }
 
 ##reordered vanilla
@@ -1437,4 +1449,12 @@ VAT = {
 NCL = {
  color = rgb { 0 0 160 }
  color_ui = rgb { 0 0 160 }
+}
+SRR = {
+ color = rgb { 36 0 145 }
+ color_ui = rgb { 36 0 145 }
+}
+CAB = {
+	color = rgb { 14 69 32 }
+	color_ui = rgb { 14 69 32 }
 }

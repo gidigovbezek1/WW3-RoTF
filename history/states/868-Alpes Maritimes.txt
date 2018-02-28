@@ -7,22 +7,15 @@ state={
 		owner = ITA
 		add_core_of = FRA
 		add_core_of = ITA
-		victory_points = {
-			9909 5 
-		}
+
 		buildings = {
 			infrastructure = 4
-			9909 = {
-				naval_base = 2
-
-			}
-
 		}
 
 	}
 
 	provinces={
-		3959 9909 13265 13266 13293 
+		13265 13266 13293 
 	}
 	manpower=181500
 	buildings_max_level_factor=1.000

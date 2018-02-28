@@ -300,6 +300,30 @@ if = {
 		target = GRE
 		autonomous_state = autonomy_colony
 	}
+	set_autonomy = {
+		target = NOV
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = MOS
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = ISB
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = CAU
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = BRG
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = CRE
+		autonomous_state = autonomy_integrated_puppet
+	}
 	
 	else = {
 		puppet = BLR
@@ -319,12 +343,19 @@ if = {
 		puppet = ALB
 		puppet = GRE
 		puppet = NOR
+		puppet = CRE
+		puppet = ISB
+		puppet = BRG
+		puppet = NOV
+		puppet = MOS
+		puppet = CAU
 	}
 }
 
 
 create_faction = Axis
 add_to_faction = GER
+add_to_faction = CRE
 add_to_faction = HOL
 add_to_faction = BEL
 add_to_faction = ITA
@@ -355,6 +386,11 @@ add_to_faction = SPR
 add_to_faction = POR
 add_to_faction = PAK
 add_to_faction = FIN
+add_to_faction = ISB
+add_to_faction = MOS
+add_to_faction = CAU
+add_to_faction = BRG
+add_to_faction = NOV
 
 
 add_ideas = {
