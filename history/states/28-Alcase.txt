@@ -35,6 +35,7 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = RHI
+		add_claim_by = FRA
 		}
 	provinces={
 		549 678 1346 6529 9503 

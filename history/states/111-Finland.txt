@@ -18,6 +18,7 @@ state={
 			}
 		}
 		add_core_of = FIN
+		add_core_of = SWE
 	}
 	provinces={
 		204 6009 6108 6144 9129 11105 11211 

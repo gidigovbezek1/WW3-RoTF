@@ -10,7 +10,7 @@ state={
 			}
 		}
 		add_core_of = FRA
-		add_claim_by = ENG
+		add_core_of = ENG
 	}
 	provinces={
 		13239 

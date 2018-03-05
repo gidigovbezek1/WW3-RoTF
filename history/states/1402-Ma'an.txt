@@ -1,15 +1,20 @@
+
 state={
 	id=1402
 	name="STATE_1402"
+
 	history={
 		owner = SAU
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = SAU
+
 	}
+
 	provinces={
-		4562 4574 4591 4603 11976 
+		4562 4574 4591 4603 7001 11976 
 	}
 	manpower=233000
 	buildings_max_level_factor=1.000

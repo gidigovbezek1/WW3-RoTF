@@ -1,18 +1,23 @@
+
 state={
 	id=1114
 	name="STATE_1114"
 	resources={
 		chromium=16.000
 	}
+
 	history={
 		owner = TCF
 		add_core_of = TCF
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
+
 	provinces={
-		6692 9649 11664 
+		9649 11664 
 	}
 	manpower=487990
 	buildings_max_level_factor=1.000

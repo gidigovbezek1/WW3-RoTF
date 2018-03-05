@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = KUR
+		add_core_of = ARM
 	}
 	provinces={
 		9858 10399 11880 

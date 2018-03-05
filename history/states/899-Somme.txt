@@ -1,14 +1,19 @@
+
 state={
 	id=899
 	name="STATE_899"
+
 	history={
 		owner = BRG
 		buildings = {
 			infrastructure = 8
+
 		}
 		add_core_of = FRA
 		add_core_of = BRG
+
 	}
+
 	provinces={
 		3476 6504 9500 11420 
 	}

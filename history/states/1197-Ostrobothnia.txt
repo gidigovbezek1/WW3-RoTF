@@ -1,6 +1,8 @@
+
 state={
 	id=1197
 	name="STATE_1197"
+
 	history={
 		owner = FIN
 		victory_points = {
@@ -10,12 +12,16 @@ state={
 			infrastructure = 4
 			3122 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = FIN
+
 	}
+
 	provinces={
-		3122 3172 11065 11126 
+		3122 3172 6013 11065 11126 
 	}
 	manpower=162205
 	buildings_max_level_factor=1.000

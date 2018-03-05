@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = SAR
+		add_core_of = PAD
 	}
 	provinces={
 		6891 9772 9863 11755 

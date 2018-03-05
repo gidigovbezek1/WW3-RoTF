@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = ARM
+		add_claim_by = GRE
 	}
 	provinces={
 		3714 11753 

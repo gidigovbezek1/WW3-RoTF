@@ -19,12 +19,14 @@ state={
 		}
 		add_core_of = FRA
 		add_core_of = BRG
+		add_core_of = GER
+
 	}
 
 	provinces={
-		521 5291 11516 
+		3560 5291 
 	}
-	manpower=379375
+	manpower=219375
 	buildings_max_level_factor=1.000
 	state_category=city
 }

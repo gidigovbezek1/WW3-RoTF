@@ -246,6 +246,7 @@ BRG = "countries/ssstate of burgundy.txt"
 VCS = "countries/volga-cossack state.txt" 
 TRN = "countries/transnistra.txt"
 UCR = "countries/union of the crescent.txt"
+AZN = "countries/australia-zealandia.txt"
 
 ##reordered vanilla
 LAT	= "countries/Latvia.txt"

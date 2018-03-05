@@ -1072,6 +1072,10 @@ DVR = {
 	color = rgb { 143 137 52 }
 	color_ui = rgb { 143 137 52 }
 }
+AZN = {
+	color = rgb { 210 0 0 }
+	color_ui = rgb { 210 0 0 }
+}
 
 ##reordered vanilla
 LIT = {

@@ -2,7 +2,7 @@
 state={
 	id=2268
 	name="STATE_2268"
-
+	impassable = yes
 	history={
 		owner = MLI
 		add_core_of = MLI
