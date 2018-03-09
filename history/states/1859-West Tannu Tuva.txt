@@ -7,12 +7,13 @@ state={
 	}
 
 	history={
-		owner = TAN
+		owner = TKS
 		buildings = {
 			infrastructure = 2
 
 		}
 		add_core_of = TAN
+		add_core_of = TKS
 		add_core_of = SOV
 		add_claim_by = CHI
 

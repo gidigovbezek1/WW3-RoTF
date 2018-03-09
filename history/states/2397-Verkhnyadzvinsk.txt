@@ -1,0 +1,16 @@
+state={
+	id=2397
+	name="STATE_2397"
+	history = {
+	add_core_of = BLR
+	buildings = {
+		infrastructure = 5
+	}
+	}
+	provinces={
+		3219 
+	}
+	manpower=7600
+	buildings_max_level_factor=1.000
+	state_category = enclave
+}

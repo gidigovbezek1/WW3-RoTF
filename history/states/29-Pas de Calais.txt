@@ -16,6 +16,7 @@ state={
 			air_base = 10
 		}
 		add_core_of = BEL
+		add_core_of = FLA
 	}
 	provinces={
 		3536 11548 

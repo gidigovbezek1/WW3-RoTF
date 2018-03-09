@@ -2,9 +2,9 @@
 
 oob = "ENG_1936"
 
-set_research_slots = 4
+set_research_slots = 2
 
-set_national_unity = 0.6
+set_national_unity = 0.2
 
 # Starting tech
 set_technology = {
@@ -52,55 +52,6 @@ add_ideas = {
 
 set_convoys = 800
 
-# DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = MAL
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = IRQ
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = OMA
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = RAJ
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
-	set_autonomy = {
-		target = CAN
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-	}
-	set_autonomy = {
-		target = SAF
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-	}
-	set_autonomy = {
-		target = AST
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = NZL
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	else = {
-		puppet = MAL
-		puppet = RAJ
-		puppet = OMA
-	}
-}
-
 
 if = {
 	limit = { has_dlc = "Together for Victory" }
@@ -140,13 +91,7 @@ create_country_leader = {
 	}
 }
 	
-	set_autonomy = {
-		target = MYA
-		autonomous_state = autonomy_integrated_puppet
-	}
-	
-	give_military_access = MYA
-	add_to_faction = MYA
+
 	
 	remove_ideas = george_v #Dead
 
@@ -160,8 +105,6 @@ create_country_leader = {
 	complete_national_focus = uk_mediterranean_focus
 	complete_national_focus = uk_asia_focus
 	complete_national_focus = uk_commonwealth_focus
-
-	give_guarantee = POL
 	
 	set_national_unity = 0.8
 	oob = "ENG_1939"
@@ -241,41 +184,31 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 97
+			popularity = 3
 		}
 
 		fascism = {
 			popularity = 2
 		}
+
+		neutrality = {
+			popularity = 5
+		}
 		
 		communism = {
-			popularity = 1
+			popularity = 90
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = communism
 	last_election = "1935.11.14"
 	election_frequency = 48
-	elections_allowed = yes ##suspended through duration of war, which is handled via event
+	elections_allowed = no ##suspended through duration of war, which is handled via event (? how ? )
 }
 
 
 
-create_faction = Allies
-add_to_faction = ENG
-#add_to_faction = FRA
-add_to_faction = CAN
-add_to_faction = AST
-add_to_faction = NZL
-add_to_faction = SAF
-add_to_faction = OMA
-add_to_faction = NEP
-add_to_faction = BHU
-add_to_faction = IRQ
 
-give_military_access = RAJ
-add_to_faction = RAJ		# Must be after puppet
-add_to_faction = MAL
 
 #give_guarantee = CZE
 

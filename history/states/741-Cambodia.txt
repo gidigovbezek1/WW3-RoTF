@@ -3,8 +3,9 @@ state={
 	name="STATE_741"
 	history={
 		add_core_of = CAM
-		owner = INC
+		owner = SIA
 		add_core_of = INC
+		add_core_of = SIA
 	}
 	provinces={
 		4639 

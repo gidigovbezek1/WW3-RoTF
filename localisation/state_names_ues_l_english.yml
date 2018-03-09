@@ -899,7 +899,7 @@
  STATE_1389:0 "Elazig"
  STATE_1390:0 "Bitlis"
  STATE_1391:0 "Hakkari"
- STATE_1392:0 "Al-Hasakah"
+ STATE_1392:1 "Al-Hasakah"
  STATE_1393:0 "Raqqa"
  STATE_1394:0 "Homs"
  STATE_1395:0 "Hama"

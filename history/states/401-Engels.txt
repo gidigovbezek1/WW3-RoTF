@@ -6,10 +6,11 @@ state={
 		tungsten=34.000
 	}
 	history={
-		owner = SOV
+		owner = DVR
 		buildings = {
 			infrastructure = 4
 		}
+		add_core_of = DVR
 		add_core_of = SOV
 	}
 	provinces={

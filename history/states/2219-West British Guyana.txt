@@ -5,7 +5,7 @@ state={
 		aluminium=56.000
 	}
 	history={
-		owner = WIF
+		owner = VEN
 		add_core_of = GUY
 		add_core_of = WIF
 		add_core_of = VEN

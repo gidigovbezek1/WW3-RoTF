@@ -1,19 +1,23 @@
+
 state={
 	id=2386
 	name="STATE_2386"
 
-	history = {
+	history={
 		owner = BRG
 		add_core_of = BRG
 		add_core_of = FRA
-		buildings = { 
-		infrastructure = 6
+		buildings = {
+			infrastructure = 6
+
 		}
+
 	}
+
 	provinces={
-		3612 
+		3612 13294 
 	}
 	manpower=368615
 	buildings_max_level_factor=1.000
-	state_category = rural
+	state_category=rural
 }

@@ -5,6 +5,7 @@ state={
 		owner = GER
 		add_core_of = PAP
 		add_core_of = NNG
+		add_claim_by = INS
 		buildings = {
 			infrastructure = 2
 			12154 = {

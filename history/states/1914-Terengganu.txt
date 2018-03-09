@@ -1,3 +1,4 @@
+
 state={
 	id=1914
 	name="STATE_1914"
@@ -6,15 +7,19 @@ state={
 		steel=4.000
 		tungsten=34.000
 	}
+
 	history={
 		owner = MAL
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = MAL
+
 	}
+
 	provinces={
-		1348 4355 12199 
+		4355 12199 
 	}
 	manpower=210355
 	buildings_max_level_factor=1.000

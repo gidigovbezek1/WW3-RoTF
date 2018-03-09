@@ -1,15 +1,21 @@
+
 state={
 	id=1487
 	name="STATE_1487"
+
 	history={
-		owner = MYA
+		owner = SIA
+		add_core_of = SIA
 		add_core_of = MYA
 		buildings = {
 			infrastructure = 4
+
 		}
+
 	}
+
 	provinces={
-		4293 4408 7441 12238 
+		4293 4408 12238 13305 13310 
 	}
 	manpower=538683
 	buildings_max_level_factor=1.000
