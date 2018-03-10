@@ -197,8 +197,8 @@ SAF = {
 	color_ui = rgb { 198 169 248 }
 }
 SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 219 224 5 }
+	color_ui = rgb { 219 224 5 }
 }
 SIA = {
 	color = rgb { 171 190 152 }

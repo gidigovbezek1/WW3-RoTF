@@ -2,6 +2,7 @@ state={
 	id=2397
 	name="STATE_2397"
 	history = {
+	owner = BLR
 	add_core_of = BLR
 	buildings = {
 		infrastructure = 5

@@ -64,6 +64,7 @@ set_politics = {
 	elections_allowed = no
 }
 
+
 1936.1.1 = {
 	create_country_leader = {
 		name = "Eugène Jean Louis René Robin"
@@ -115,8 +116,6 @@ set_politics = {
 	}
 }
 
-set_cosmetic_tag = INC_FRA
-
 1939.1.1 = {
 	add_political_power = 1198
 	
@@ -159,7 +158,7 @@ set_cosmetic_tag = INC_FRA
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
+		oil_processing = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1

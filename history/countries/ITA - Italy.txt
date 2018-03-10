@@ -140,8 +140,8 @@ if = {
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
-		improved_oil_plant = 1
+		oil_processing = 1
+		improved_oil_processing = 1
 		construction1 = 1
 		construction2 = 1
 		construction3 = 1
@@ -150,13 +150,13 @@ if = {
 		concentrated_industry3 = 1
 	}
 	
-	set_national_unity = 0.8
+	set_stability = 0.8
 	GER = { add_to_faction = ITA }
 }
 
 
 set_convoys = 200
-set_national_unity = 0.6
+set_stability = 0.6
 
 set_politics = {
 

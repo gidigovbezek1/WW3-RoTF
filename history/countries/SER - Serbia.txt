@@ -1,21 +1,33 @@
-﻿capital = 3
+﻿capital = 107
 
-oob = "SWI_1936"
+oob = "YUG_1936"
 
 set_research_slots = 3
 
+add_ideas = {
+	anti_german_military
+}
+
 set_technology = {
-	infantry_weapons = 1
-	infantry_weapons1 = 1
-	tech_mountaineers = 1
 	tech_support = 1		
 	tech_engineers = 1
-	tech_recon = 1
+	tech_mountaineers = 1
 	early_fighter = 1
-	CAS1 = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	interwar_artillery = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_submarine = 1
 }
 
 1939.1.1 = {
+
+	add_ideas = {
+		limited_conscription
+	}
 
 	add_political_power = 1198
 	
@@ -25,18 +37,25 @@ set_technology = {
 	complete_national_focus = motorization_effort
 	complete_national_focus = aviation_effort
 	complete_national_focus = naval_effort
+	complete_national_focus = flexible_navy
 	complete_national_focus = industrial_effort
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "SWI_1939"
+	oob = "YUG_1939"
 	set_technology = {
 		fighter1 = 1
+		early_bomber = 1
+		tactical_bomber1 = 1
+		CAS1 = 1
+		naval_bomber1 = 1
 		gw_artillery = 1
 		interwar_artillery = 1
+		interwar_antitank = 1
 		interwar_antiair = 1
 		infantry_weapons2 = 1
 		support_weapons = 1
+		basic_destroyer = 1
 
 		#doctrines
 		air_superiority = 1
@@ -56,76 +75,76 @@ set_technology = {
 		#industry
 		basic_machine_tools = 1
 		improved_machine_tools = 1
-		advanced_machine_tools = 1
 		synth_oil_experiments = 1
 		oil_processing = 1
-		improved_oil_processing = 1
 		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
+		concentrated_industry = 1
 	}
 }
+
+set_convoys = 0
 
 set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 96
+			popularity = 20
 		}
 
 		fascism = {
-			popularity = 2
+			popularity = 30
 		}
 		
 		communism = {
-			popularity = 2
+			popularity = 20
+			#banned = no #default is no
+		}
+		
+		neutrality = { 
+			popularity = 30
 		}
 	}
 	
-	ruling_party = democratic
-	last_election = "1935.10.27"
-	election_frequency = 48
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 36
 	elections_allowed = yes
 }
 
-	give_guarantee = LIE
-
-1939.1.1 = {#next election october 39
+1939.1.1 = {
 	set_politics = {
 
 		parties = {
 			democratic = { 
-				popularity = 95
+				popularity = 20
 			}
 
 			fascism = {
-				popularity = 2
+				popularity = 30
 			}
 			
 			communism = {
-				popularity = 3
+				popularity = 20
+				#banned = no #default is no
+			}
+			
+			neutrality = { 
+				popularity = 30
 			}
 		}
 		
-		ruling_party = democratic
-		last_election = "1935.10.27"
-		election_frequency = 48
+		ruling_party = neutrality
+		last_election = "1938.1.1"
+		election_frequency = 36
 		elections_allowed = yes
 	}
 }
-
-add_ideas = {
-	neutrality_idea	
-	limited_conscription
-}
-
-set_stability = 0.85
+set_stability = 0.6
 
 create_country_leader = {
-	name = "Federal Council"
-	desc = "POLITICS_FEDERAL_COUNCIL_DESC"
-	picture = "Portrait_Switzerland_Federal_council.dds"
+	name = "Draza Mihailovic"
+	desc = ""
+	picture = "Portrait_Yugoslavia_Prince_Paul.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
@@ -134,41 +153,34 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ernest Béuin"
-	desc = "POLITICS_ERNST_BEGUIN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	name = "Milan Nedic"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = fascism_ideology
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Dr. Max Leo Keller"
-	desc = "POLITICS_MAX_LEO_KELLER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds" 
+	name = "Peter Karadordevic"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = Despotism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Fritz Platten"
-	desc = "POLITICS_FRITZ_PLATTEN_DESC"
+	name = "Zivorad Jovanovic"
+	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = leninism
 	traits = {
 		#
 	}
-}
-
-create_corps_commander = {
-	name = "Henri Guisan"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	traits = {  winter_specialist }
-	skill = 3
 }
