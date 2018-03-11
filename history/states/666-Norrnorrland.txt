@@ -7,7 +7,7 @@ state={
 		chromium=20.000
 	}
 	history={
-		owner = SWE
+		owner = SCA
 		victory_points = {
 			9108 1 
 		}
@@ -18,6 +18,7 @@ state={
 				naval_base = 2
 			}
 		}
+		add_core_of = SCA
 		add_core_of = SWE
 	}
 	provinces={

@@ -1,6 +1,8 @@
+
 state={
 	id=217
 	name="STATE_217"
+
 	history={
 		owner = CAU
 		victory_points = {
@@ -11,15 +13,20 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 			air_base = 1
+
 		}
 		add_core_of = SOV
 		add_core_of = CAU
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
+
 			}
+
 		}
+
 	}
+
 	provinces={
 		498 3529 3555 6503 6527 9442 9459 9474 9504 11447 
 	}

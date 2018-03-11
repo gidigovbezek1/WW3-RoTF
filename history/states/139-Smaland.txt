@@ -5,12 +5,13 @@ state={
 		steel=10.000
 	}
 	history={
-		owner = SWE
+		owner = SCA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
 			air_base = 2
 		}
+		add_core_of = SCA
 		add_core_of = SWE
 	}
 	provinces={

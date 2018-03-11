@@ -2,13 +2,14 @@ state={
 	id=1224
 	name="STATE_1224"
 	history={
-		owner = SWE
+		owner = SCA
 		victory_points = {
 			11114 1 
 		}
 		buildings = {
 			infrastructure = 6
 		}
+		add_core_of = SCA
 		add_core_of = SWE
 	}
 	provinces={

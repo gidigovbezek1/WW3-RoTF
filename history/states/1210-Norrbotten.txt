@@ -9,12 +9,13 @@ state={
 	}
 
 	history={
-		owner = SWE
+		owner = SCA
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SWE
+		add_core_of = SCA
 
 	}
 

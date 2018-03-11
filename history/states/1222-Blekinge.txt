@@ -2,7 +2,7 @@ state={
 	id=1222
 	name="STATE_1222"
 	history={
-		owner = SWE
+		owner = SCA
 		victory_points = {
 			11215 1 
 		}
@@ -14,6 +14,7 @@ state={
 			}
 		}
 		add_core_of = SWE
+		add_core_of = SCA
 	}
 	provinces={
 		11215 11327 

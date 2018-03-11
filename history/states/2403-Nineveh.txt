@@ -2,6 +2,7 @@ state={
 	id=2403
 	name="STATE_2403"
 	history = {
+		owner = TUR
 		add_core_of = KUR
 		add_core_of = TUR
 		add_core_of = SAU

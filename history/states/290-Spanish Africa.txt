@@ -5,8 +5,9 @@ state={
 		steel=5.000
 	}
 	history={
-		owner = SPR
+		owner = GEr
 		add_claim_by = MOR
+		add_core_of = GER
 		add_core_of = SPR
 		victory_points = {
 			9945 5 

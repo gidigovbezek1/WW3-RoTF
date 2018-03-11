@@ -6,7 +6,7 @@ state={
 		tungsten=20.000
 	}
 	history={
-		owner = NOR
+		owner = SCA
 		buildings = {
 			infrastructure = 3
 			air_base = 1
@@ -18,6 +18,7 @@ state={
 			192 1 
 		}
 		add_core_of = NOR
+		add_core_of = SCA
 	}
 	provinces={
 		38 173 192 3034 3048 3088 3126 3132 3145 6071 6111 6187 6214 9126 9208 11157 

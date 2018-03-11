@@ -5,7 +5,7 @@ state={
 		steel=3.000
 	}
 	history={
-		owner = BLR
+		owner = GER
 		victory_points = {
 			9483 1 
 		}
@@ -13,6 +13,8 @@ state={
 			infrastructure = 5
 		}
 		add_core_of = BLR
+		add_core_of = LIT
+		add_core_of = GER
 	}
 	provinces={
 		530 6229 6376 9483 

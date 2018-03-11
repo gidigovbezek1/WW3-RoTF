@@ -59,7 +59,7 @@
  STATE_131:0 "Northumberland"
  STATE_134:0 "Roscommon"
  STATE_135:0 "Tipperary"
- STATE_137:0 "Sevastopol"
+ STATE_137:1 "Sevastopol"
  STATE_139:0 "Kalmar"
  STATE_141:0 "Stockholm"
  STATE_142:0 "Hordaland"

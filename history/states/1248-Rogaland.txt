@@ -2,7 +2,7 @@ state={
 	id=1248
 	name="STATE_1248"
 	history={
-		owner = NOR
+		owner = SCA
 		buildings = {
 			infrastructure = 5
 			6176 = {
@@ -10,6 +10,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
+		add_core_of = SCA
 		add_core_of = NOR
 	}
 	provinces={

@@ -2,13 +2,14 @@ state={
 	id=1231
 	name="STATE_1231"
 	history={
-		owner = DEN
+		owner = SCA
 		buildings = {
 			infrastructure = 8
 			394 = {
 				naval_base = 3
 			}
 		}
+		add_core_of = SCA
 		add_core_of = DEN
 	}
 	provinces={

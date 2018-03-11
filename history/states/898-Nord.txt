@@ -21,10 +21,11 @@ state={
 		}
 		add_core_of = BEL
 		add_core_of = FLA
+
 	}
 
 	provinces={
-		575 11483 
+		575 3536 11483 
 	}
 	manpower=520948
 	buildings_max_level_factor=1.000

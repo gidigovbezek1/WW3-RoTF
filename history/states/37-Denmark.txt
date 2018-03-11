@@ -2,7 +2,7 @@ state={
 	id=37
 	name="STATE_37"
 	history={
-		owner = DEN
+		owner = SCA
 		victory_points = {
 			6287 20 
 		}
@@ -16,6 +16,7 @@ state={
 				naval_base = 8
 			}
 		}
+		add_core_of = SCA
 		add_core_of = DEN
 	}
 	provinces={

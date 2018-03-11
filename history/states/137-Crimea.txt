@@ -2,7 +2,7 @@ state={
 	id=137
 	name="STATE_137"
 	history={
-		owner = GER
+		owner = TUR
 		victory_points = {
 			3686 20 
 		}
@@ -16,7 +16,7 @@ state={
 			}
 		}
 		add_core_of = CRI
-		add_core_of = GER
+		add_core_of = TUR
 	}
 	provinces={
 		3686 

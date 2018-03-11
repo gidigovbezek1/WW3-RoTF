@@ -8,7 +8,7 @@ state={
 		victory_points = {
 			6115 15 
 		}
-		owner = NOR
+		owner = SCA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -20,6 +20,7 @@ state={
 				coastal_bunker = 3
 			}
 		}
+		add_core_of = SCA
 		add_core_of = NOR
 	}
 	provinces={

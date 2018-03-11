@@ -2,7 +2,7 @@ state={
 	id=1237
 	name="STATE_1237"
 	history={
-		owner = NOR
+		owner = SCA
 		buildings = {
 			infrastructure = 3
 			11050 = {
@@ -10,6 +10,7 @@ state={
 			}
 		}
 		add_core_of = NOR
+		add_core_of = SCA
 	}
 	provinces={
 		44 91 3058 3082 6079 6107 6130 11050 11090 

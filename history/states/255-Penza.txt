@@ -2,11 +2,11 @@ state={
 	id=255
 	name="STATE_255"
 	history={
-		owner = SOV
+		owner = DVR
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = SOV
+		add_core_of = DVR
 	}
 	provinces={
 		6248 6291 6391 9258 9286 11309 
