@@ -2,14 +2,12 @@ state={
 	id=1744
 	name="STATE_1744"
 	history={
-		owner = CHI
+		owner = JAP
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = JAP
 		buildings = {
 			infrastructure = 4
-		}
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 	provinces={

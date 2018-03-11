@@ -6,7 +6,7 @@ state={
 		chromium=6.000
 	}
 	history={
-		owner = SOV
+		owner = MOS
 		victory_points = {
 			9355 10 
 		}
@@ -14,7 +14,7 @@ state={
 			infrastructure = 5
 			air_base = 4
 		}
-		add_core_of = SOV
+		add_core_of = MOS
 	}
 	provinces={
 		6355 9328 9355 9384 9411 11310 11368 

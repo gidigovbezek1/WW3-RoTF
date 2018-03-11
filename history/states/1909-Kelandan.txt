@@ -4,7 +4,7 @@ state={
 	name="STATE_1909"
 
 	history={
-		owner = MAL
+		owner = SIA
 		victory_points = {
 			7329 1 
 		}
@@ -17,7 +17,7 @@ state={
 
 		}
 		add_core_of = MAL
-
+		add_core_of = SIA
 	}
 
 	provinces={

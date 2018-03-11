@@ -6,7 +6,8 @@ state={
 	history={
 		add_core_of = VIN
 		add_core_of = INC
-		owner = INC
+		add_core_of = SIA
+		owner = SIA
 		buildings = {
 			infrastructure = 4
 

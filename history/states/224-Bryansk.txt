@@ -2,7 +2,7 @@ state={
 	id=224
 	name="STATE_224"
 	history={
-		owner = SOV
+		owner = MOS
 		victory_points = {
 			3335 10 
 		}
@@ -10,7 +10,7 @@ state={
 			infrastructure = 5
 			air_base = 2
 		}
-		add_core_of = SOV
+		add_core_of = MOS
 	}
 	provinces={
 		398 3226 3335 3390 6305 6411 
