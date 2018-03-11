@@ -5,17 +5,8 @@ state={
 
 	history={
 		owner = FRA
-		victory_points = {
-			6449 15 
-		}
 		buildings = {
 			infrastructure = 7
-			6449 = {
-				naval_base = 5
-				coastal_bunker = 1
-
-			}
-
 		}
 		add_core_of = FRA
 

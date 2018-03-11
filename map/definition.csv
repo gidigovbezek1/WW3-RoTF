@@ -13308,9 +13308,9 @@
 13307;177;7;203;land;false;plains;0
 13308;111;135;13;land;false;mountains;0
 13309;29;21;41;land;true;mountains;0
-13310;14;174;59;land;false;unknown;0
-13311;173;65;229;land;false;unknown;0
+13310;14;174;59;land;false;jungle;0
+13311;173;65;229;land;false;desert;0
 13312;155;32;228;land;true;desert;0
 13313;99;242;45;land;false;plains;0
-13314;231;222;6;land;false;unknown;0
-13315;203;98;0;land;false;unknown;0
+13314;231;222;6;land;false;hills;0
+13315;203;98;0;land;false;jungle;0

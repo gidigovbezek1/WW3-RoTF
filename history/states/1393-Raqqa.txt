@@ -9,7 +9,7 @@ state={
 		add_core_of = SAU
 	}
 	provinces={
-		1606 1634 3942 6883 
+		1606 1634 3942
 	}
 	manpower=113439
 	buildings_max_level_factor=1.000

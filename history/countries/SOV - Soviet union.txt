@@ -1,4 +1,4 @@
-﻿capital = 219
+﻿capital = 574
 
 oob = "SOV_1936"
 
@@ -35,25 +35,6 @@ set_technology = {
 	transport = 1
 	mass_assault = 1
 	fleet_in_being = 1
-}
-
-# DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = TAN
-		autonomous_state = autonomy_dominion
-		}
-	set_autonomy = {
-		target = MON
-		autonomous_state = autonomy_dominion
-		}
-	else = {
-		puppet = TAN
-		puppet = MON
-	}
 }
 
 1939.1.1 = {

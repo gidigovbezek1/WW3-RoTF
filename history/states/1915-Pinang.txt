@@ -8,12 +8,11 @@ state={
 		aluminium = 5
 	}
 	history={
-		owner = SIA
+		owner = MAL
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = MAL
-		add_core_of = SIA
 	}
 	provinces={
 		7342 
