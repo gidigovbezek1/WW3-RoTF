@@ -6,6 +6,8 @@ set_technology = {
 	mass_assault = 1
 }
 
+set_cosmetic_tag = URA_GER_reichskommissariat
+
 set_politics = {
 
 	parties = {

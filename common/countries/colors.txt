@@ -1001,8 +1001,8 @@ VFR = {
  color_ui = rgb { 64 224 253 }
 }
 URA = {
- color = rgb { 164 164 164 }
- color_ui = rgb { 164 164 164 }
+ color = rgb { 192 192 192 }
+ color_ui = rgb { 192 192 192 }
 }
 LIV = {
  color = rgb { 159 26 156 }
@@ -1037,8 +1037,8 @@ CRE = {
  color_ui = rgb { 0 55 111 }
 }
 ISB = {
-	color = rgb { 164 164 164 }
-	color_ui = rgb { 164 164 164 }
+	color = rgb { 222 241 201 }
+	color_ui = rgb { 222 241 201 }
 }
 EAC = {
 	color = rgb { 153 57 240 }

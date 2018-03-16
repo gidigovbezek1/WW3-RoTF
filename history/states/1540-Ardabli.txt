@@ -1,15 +1,20 @@
+
 state={
 	id=1540
 	name="STATE_1540"
+
 	history={
 		owner = PER
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = PER
+
 	}
+
 	provinces={
-		4901 10454 
+		10454 13321 
 	}
 	manpower=315587
 	buildings_max_level_factor=1.000

@@ -5,8 +5,7 @@ state={
 
 	history={
 		add_core_of = CAM
-		add_core_of = VIN
-		owner = VIN
+		owner = CAM
 		add_core_of = INC
 
 	}

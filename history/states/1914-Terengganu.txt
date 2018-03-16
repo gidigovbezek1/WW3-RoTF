@@ -16,10 +16,11 @@ state={
 		}
 		add_core_of = MAL
 		add_core_of = SIA
+
 	}
 
 	provinces={
-		4355 12199 13303
+		4355 12199 13303 13314 
 	}
 	manpower=210355
 	buildings_max_level_factor=1.000

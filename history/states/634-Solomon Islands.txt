@@ -2,7 +2,7 @@ state={
 	id=634
 	name="STATE_634"
 	history={
-		owner = AST
+		owner = GER
 		add_core_of = SOL
 		buildings = {
 			infrastructure = 2
@@ -17,7 +17,7 @@ state={
 	provinces={
 		1042 1085 1269 1370 4252 4292 7437 10291 10319 12265 
 	}
-	manpower=75000
+	manpower=56661
 	buildings_max_level_factor=1.000
 	state_category=small_island
 }

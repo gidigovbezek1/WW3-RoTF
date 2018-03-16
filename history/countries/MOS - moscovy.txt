@@ -6,6 +6,8 @@ set_technology = {
 	mass_assault = 1
 }
 
+#diplomacy
+set_cosmetic_tag = MOS_GER_reichskommissariat
 set_politics = {
 
 	parties = {

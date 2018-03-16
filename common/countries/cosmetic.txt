@@ -104,31 +104,6 @@ HRE_UNIFIED = {
 	color_ui = rgb { 128 128 128 }
 }
 
-NOR_reichskommissariat = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-
-HOL_reichskommissariat = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-
-BEL_reichskommissariat = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-
-BLR_reichskommissariat = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-
-UKR_reichskommissariat = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-
 SPR_civil_war = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }
@@ -173,4 +148,55 @@ GER_greater_german_reich = {
 CHI_warlord_PRC = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 178 34 60 }
+}
+
+#rotf
+URA_GER_reichskommissariat = {
+	color = rgb { 192 192 192 }
+	color_ui = rgb { 192 192 192 }
+}
+
+ISB_GER_reichskommissariat = {
+	color = rgb { 172 172 172 }
+	color_ui = rgb { 172 172 172 }
+}
+
+NOV_GER_reichskommissariat = {
+	color = rgb { 88 122 94 }
+	color_ui = rgb { 88 122 94 }
+}
+
+CAU_GER_reichskommissariat = {
+	color = rgb { 121 79 132 }
+	color_ui = rgb { 121 79 132 }
+}
+
+MOS_GER_reichskommissariat = {
+	color = rgb { 124 126 84 }
+	color_ui = rgb { 124 126 84 }
+}
+
+DVR_GER_reichskommissariat = {
+	color = rgb { 114 97 97 }
+	color_ui = rgb { 114 97 97 }
+}
+
+BLR_GER_reichskommissariat = {
+	color = rgb { 128 118 83 }
+	color_ui = rgb { 128 118 83 }
+}
+
+UKR_GER_reichskommissariat = {
+	color = rgb { 80 122 131 }
+	color_ui = rgb { 80 122 131 }
+}
+
+SCA_GER_reichskommissariat = { 
+	color = rgb { 77 82 134 }
+	color_ui = rgb { 77 82 134 }
+}
+
+CRE_GER_reichkommissariat = {
+	color = rgb { 82 117 129 }
+	color_ui = rgb { 82 117 129 }
 }

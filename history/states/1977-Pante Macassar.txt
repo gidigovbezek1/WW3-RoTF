@@ -4,6 +4,7 @@ state={
 	history={
 		owner = POR
 		add_core_of = ETM
+		add_core_of = POR
 		buildings = {
 			infrastructure = 3
 		}
