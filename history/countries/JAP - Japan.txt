@@ -165,35 +165,54 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = PHI
+		target = MAL
 		autonomous_state = autonomy_colony
 	}
+	set_autonomy = {
+		target = VIN
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = CAM
+		autonomous_state = autonomy_colony
+		}
+	set_autonomy = {
+		target = YUN
+		autonomous_state = autonomy_dominion
+		}
 	set_autonomy = {
 		target = XSM
 		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = TIB
-		autonomous_state = autonomous_puppet
+		autonomous_state = autonomy_puppet
 		}
-
+	set_atuonomy = {
+		target = SOV
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = FID
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = BAN
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = MYA
+		autonomous_state = autonomy_dominion
+	}
 	else = {
-		set_autonomy = {
-			target = TAN
-			autonomous_state = autonomy_puppet
-		}
-		set_autonomy = {
-			target = PHI
-			autonomous_state = autonomy_puppet
-		}
-		set_autonomy = {
-			target = TIB
-			autonomous_state = autonomy_puppet
-		}
-		set_autonomy = {
-			target = XSM
-			autonomous_state = autonomy_puppet
-		}
+	puppet = VIN
+	puppet = MAL
+	puppet = TAN
+	puppet = CAM
+	puppet = XSM
+	puppet = TIB
+	puppet = VIN
+	puppet = SOV
 	}
 }
 create_faction = "East Asian Co-Prosperity Sphere"
@@ -201,8 +220,15 @@ add_to_faction = JAP
 add_to_faction = TAN
 add_to_faction = XSM
 add_to_faction = TIB
-add_to_faction = PHI
-
+add_to_faction = MAL
+add_to_faction = BUR
+add_to_faction = VIN
+add_to_faction = CAM
+add_to_faction = SOV
+add_to_faction = SIA
+add_to_faction = BAN
+add_to_faction = MYA
+add_to_faction = FID
 
 set_politics = {
 

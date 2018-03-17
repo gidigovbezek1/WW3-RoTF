@@ -5,16 +5,15 @@ state={
 		aluminium=4.000
 	}
 	history={
-		owner = USA
+		owner = QBC
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = CAN
+		add_claim_by = CAN
 		add_core_of = QBC
-		add_core_of = USA
 		victory_points = {
 			4345 20 
 		}

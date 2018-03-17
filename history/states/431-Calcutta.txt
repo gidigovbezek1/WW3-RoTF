@@ -1,3 +1,4 @@
+
 state={
 	id=431
 	name="STATE_431"
@@ -5,6 +6,7 @@ state={
 		steel=20.000
 		tungsten=16.000
 	}
+
 	history={
 		owner = RAJ
 		add_core_of = RAJ
@@ -15,14 +17,18 @@ state={
 			air_base = 2
 			4245 = {
 				naval_base = 6
+
 			}
+
 		}
 		victory_points = {
 			4245 5 
 		}
+
 	}
+
 	provinces={
-		1159 4062 4245 12050 
+		1159 4062 4245 
 	}
 	manpower=3718064
 	buildings_max_level_factor=1.000

@@ -2,16 +2,15 @@ state={
 	id=2043
 	name="STATE_2043"
 	history={
-		owner = USA
+		owner = QBC
 		buildings = {
 			infrastructure = 6
 			12149 = {
 				naval_base = 6
 			}
 		}
-		add_core_of = CAN
+		add_claim_by = CAN
 		add_core_of = QBC
-		add_core_of = USA
 		victory_points = {
 			12149 3 
 		}

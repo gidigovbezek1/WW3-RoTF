@@ -2,13 +2,12 @@ state={
 	id=2041
 	name="STATE_2041"
 	history={
-		owner = USA
+		owner = QBC
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = CAN
+		add_claim_by = CAN
 		add_core_of = QBC
-		add_core_of = USA
 	}
 	provinces={
 		490 3911 6740 7875 10249 11682 11902 
