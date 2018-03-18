@@ -94,18 +94,6 @@ create_import = {
 			exporter = SOV
 	}
 
-	#MR pact effect, Also has a part scripted in soviet history file
-	unlock_national_focus = GER_mol_rib_pact
-	every_other_country = {
-		limit = {
-			has_government = fascism 
-		}
-		add_opinion_modifier = { target = GER modifier = MR_pact_fascists }
-	}
-	diplomatic_relation = { country = SOV relation = non_aggression_pact }
-	add_opinion_modifier = { target = SOV modifier = MR_pact }
-	#MR pact end
-
 	#Soviet treaty
 	unlock_national_focus = GER_soviet_treaty
 	add_tech_bonus = {

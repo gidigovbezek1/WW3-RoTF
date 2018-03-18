@@ -6,14 +6,14 @@ state={
 		add_core_of = SOL
 		owner = GER
 		buildings = {
-			infastructure = 2
+			infrastructure = 2
 			12265 = {
 				naval_base = 2
 			}
 		}
 	}
 	provinces={
-		4252 12265 
+		4252 12265 13320
 	}
 	manpower=18339
 	buildings_max_level_factor=1.000

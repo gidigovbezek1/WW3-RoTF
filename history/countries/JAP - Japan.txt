@@ -88,7 +88,7 @@ create_import = {
 	complete_national_focus = industrial_effort_focus2
 	declare_war_on = {
 		target = CHI
-		type = puppet_focus
+		type = puppet_wargoal_focus
 	}
 	#declare_war_on = {
 	#	target = GXC
@@ -188,7 +188,7 @@ if = {
 		target = TIB
 		autonomous_state = autonomy_puppet
 		}
-	set_atuonomy = {
+	set_autonomy = {
 		target = SOV
 		autonomous_state = autonomy_puppet
 	}

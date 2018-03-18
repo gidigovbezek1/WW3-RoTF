@@ -6,7 +6,7 @@ state={
 		add_claim_by = SAU
 		add_core_of = PER
 		buildings = {
-			infastructure = 5
+			infrastructure = 5
 		}
 	}
 	provinces={
