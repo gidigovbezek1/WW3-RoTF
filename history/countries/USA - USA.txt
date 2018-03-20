@@ -49,6 +49,8 @@ give_guarantee = NIC
 give_guarantee = COS
 give_guarantee = PAN
 give_guarantee = VEN
+give_guarantee = WIF
+give_guarantee = UCA
 give_guarantee = COL
 give_guarantee = ECU
 give_guarantee = PRU
@@ -58,6 +60,7 @@ give_guarantee = CHL
 give_guarantee = PAR
 give_guarantee = ARG
 give_guarantee = URG
+give_guarantee = ENG
 
 1939.1.1 = {
 
@@ -209,10 +212,6 @@ if = {
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = BRA
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
 		target = HAI
 		autonomous_state = autonomy_dominion
 	}
@@ -262,14 +261,28 @@ if = {
 	}
 	set_autonomy = {
 		target = MEX
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = UCA
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = UPC
+		target = PRU
 		autonomous_state = autonomy_dominion
 	}
-
+	set_autonomy = {
+		target = CAN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = QBC
+		autonomous_state = autonomy_integrated_puppet
+	}
 	else = {
+	puppet = CAN
+	puppet = QBC
+	puppet = MEX
 }
 }
 
@@ -278,13 +291,18 @@ add_to_faction = USA
 add_to_faction = MEX
 add_to_faction = ARG
 add_to_faction = URG
+add_to_faction = QBC
+add_to_faction = CAN
 add_to_faction = PAR
 add_to_faction = BOL
 add_to_faction = CHL
 add_to_faction = CUB
 add_to_faction = DOM
 add_to_faction = HAI
-add_to_faction = UPC
+add_to_faction = UCA
+add_to_faction = CAF
+add_to_faction = ANG
+add_to_faction = MZB
 add_to_faction = COL
 add_to_faction = VEN
 add_to_faction = WIF

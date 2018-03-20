@@ -179,6 +179,10 @@ if = {
 	set_autonomy = {
 		target = YUN
 		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = YUN
+		autonomous_state = autonomy_dominion
 		}
 	set_autonomy = {
 		target = XSM
@@ -221,7 +225,7 @@ add_to_faction = TAN
 add_to_faction = XSM
 add_to_faction = TIB
 add_to_faction = MAL
-add_to_faction = BUR
+add_to_faction = YUN
 add_to_faction = VIN
 add_to_faction = CAM
 add_to_faction = SOV
