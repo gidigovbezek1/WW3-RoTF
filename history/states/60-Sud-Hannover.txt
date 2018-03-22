@@ -1,3 +1,4 @@
+
 state={
 	id=60
 	name="STATE_60"
@@ -6,6 +7,7 @@ state={
 		chromium=4.000
 		tungsten=4.000
 	}
+
 	history={
 		owner = GER
 		victory_points = {
@@ -15,12 +17,15 @@ state={
 			infrastructure = 6
 			arms_factory = 1
 			industrial_complex = 1
+
 		}
 		add_core_of = GER
 		add_core_of = PRS
+
 	}
+
 	provinces={
-		482 6524 9497 
+		482 6524 
 	}
 	manpower=1001738
 	buildings_max_level_factor=1.000
