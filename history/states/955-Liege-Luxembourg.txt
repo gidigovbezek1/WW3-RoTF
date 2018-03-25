@@ -12,7 +12,7 @@ state={
 		add_claim_by = BEL
 		add_core_of = GER
 		add_core_of = WLO
-		add_core_of = RHI
+
 	}
 
 	provinces={

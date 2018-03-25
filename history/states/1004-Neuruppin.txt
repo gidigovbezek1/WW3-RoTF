@@ -7,7 +7,6 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = GER
-		add_core_of = MEC
 	}
 	provinces={
 		375 3367 11219 11444 

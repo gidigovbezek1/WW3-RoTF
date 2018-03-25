@@ -13,7 +13,6 @@ state={
 		}
 		add_core_of = DEN
 		add_core_of = GER
-		add_core_of = HOL
 	}
 	provinces={
 		332 11251 

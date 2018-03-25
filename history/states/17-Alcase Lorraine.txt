@@ -20,7 +20,7 @@ state={
 		add_claim_by = FRA
 		add_claim_by = BRG
 		add_core_of = GER
-		add_core_of = RHI
+
 	}
 
 	provinces={

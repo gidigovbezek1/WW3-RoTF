@@ -7,7 +7,6 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = GER
-		add_core_of = POL
 	}
 	provinces={
 		3483 9454 
