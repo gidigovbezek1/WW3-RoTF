@@ -9,7 +9,7 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = USA
-
+		add_core_of = MRU
 	}
 	provinces={
 		4360 

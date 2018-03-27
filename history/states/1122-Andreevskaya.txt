@@ -8,6 +8,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = CAU
+		add_core_of = KLM
 	}
 	provinces={
 		3777 6468 6765 6796 9415 9581 11416 

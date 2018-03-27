@@ -7,6 +7,7 @@ state={
 		owner = BRG
 		add_core_of = BRG
 		add_claim_by = FFR
+		add_core_of = ALP
 		buildings = {
 			infrastructure = 6
 

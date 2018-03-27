@@ -247,7 +247,6 @@ VCS = "countries/volga-cossack state.txt"
 TRN = "countries/transnistra.txt"
 UCR = "countries/union of the crescent.txt"
 AZN = "countries/australia-zealandia.txt"
-MRU = "countries/maritime union.txt"
 LGA = "countries/Legation.txt"
 
 ##reordered vanilla
@@ -364,3 +363,4 @@ DNZ = "countries/Danzig.txt"
 HEJ = "countries/Hejaz.txt"
 NEJ = "countries/Nejd.txt"
 TNG = "countries/Tangier.txt"
+MRU = "countries/maritime union.txt"

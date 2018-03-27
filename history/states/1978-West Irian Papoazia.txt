@@ -5,6 +5,7 @@ state={
 		owner = INS
 		add_core_of = INS
 		add_core_of = WNG
+		add_core_of = SNG
 		buildings = {
 			infrastructure = 1
 		}

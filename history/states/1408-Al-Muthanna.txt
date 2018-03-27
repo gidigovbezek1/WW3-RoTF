@@ -7,6 +7,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = SAU
+		add_core_of = EJS
 	}
 	provinces={
 		12879 
