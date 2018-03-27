@@ -19,7 +19,7 @@ state={
 		}
 		add_core_of = BRI
 		add_claim_by = FFR
-		add_claim_by = FRA
+		add_claim_by = VFR
 	}
 	provinces={
 		6536 6548 9510 

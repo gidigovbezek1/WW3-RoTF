@@ -17,7 +17,6 @@ state={
 		}
 		add_core_of = CRS
 		add_core_of = ITA
-		add_claim_by = FFR
 	}
 	provinces={
 		3838 9851 11804 

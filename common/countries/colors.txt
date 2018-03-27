@@ -1076,6 +1076,10 @@ AZN = {
 	color = rgb { 210 0 0 }
 	color_ui = rgb { 210 0 0 }
 }
+MRU = {
+	color = rgb { 64 224 208 }
+	color_ui = rgb { 64 224 208 }
+}
 
 ##reordered vanilla
 LIT = {
@@ -1461,4 +1465,52 @@ SRR = {
 CAB = {
 	color = rgb { 14 69 32 }
 	color_ui = rgb { 14 69 32 }
+}
+ABK = {
+	color = rgb { 10 169 104 }
+	color_ui = rgb { 10 169 104 }
+}
+ACH = {
+	color = rgb { 255 85 56 }
+	color_ui = rgb { 255 85 56 }
+}
+ALP = {
+	color = rgb { 255 168 108 }
+	color_ui = rgb { 255 168 108 }
+}
+EJS = {
+	color = rgb { 90 98 108 }
+	color_ui = rgb { 90 98 108 }
+}
+NBN = {
+	color = rgb { 249  208  213 }
+	color_ui = rgb { 249  208  213 }
+}
+OSS = {
+	color = rgb { 253  239  181 }
+	color_ui = rgb { 253  239  181 }
+}
+SMO = {
+	color = rgb { 254  242  159 }
+	color_ui = rgb { 254  242  159 }
+}
+SNG = {
+	color = rgb { 135  126  159 }
+	color_ui = rgb { 135  126  159 }
+}
+DNZ = {
+	color = rgb { 254 8 0 }
+	color_ui = rgb { 254 8 0 }
+}
+TNG = {
+	color = rgb { 48 96 0 }
+	color_ui = rgb { 48 96 0 }
+}
+NEJ = {
+	color = rgb { 48 96 37 }
+	color_ui = rgb { 48 96 37 }
+}
+HEJ = {
+	color = rgb { 208 150 152 }
+	color_ui = rgb { 208 150 152 }
 }

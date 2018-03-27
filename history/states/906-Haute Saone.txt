@@ -12,7 +12,7 @@ state={
 			infrastructure = 7
 
 		}
-		add_core_of = FRA
+		add_claim_by = FFR
 		add_core_of = BRG
 
 	}

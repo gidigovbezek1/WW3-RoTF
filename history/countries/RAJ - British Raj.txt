@@ -142,6 +142,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_faction = "Entente"
+add_to_faction = AST
+add_to_faction = NZL
+add_to_faction = FFR
+add_to_faction = PHI
+add_to_faction = INS
+add_to_faction = CAB
+
 create_country_leader = {
 	name = "Lord Linlithgow"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"

@@ -2,7 +2,7 @@ state={
 	id=781
 	name="STATE_781"
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			11506 50 
 		}
@@ -13,13 +13,8 @@ state={
 			anti_air_building = 3
 			air_base = 5
 		}
-		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 4
-				industrial_complex = 6
-			}
-		}
+		add_claim_by = FFR
+		add_core_of = VFR
 	}
 	provinces={
 		9523 9534 11506 

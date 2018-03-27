@@ -4,13 +4,13 @@ state={
 	name="STATE_900"
 
 	history={
-		owner = FRA
+		owner = VFR
 		buildings = {
 			infrastructure = 8
 
 		}
-		add_core_of = FRA
-
+		add_core_of = VFR
+		add_claim_by = FFR
 	}
 
 	provinces={

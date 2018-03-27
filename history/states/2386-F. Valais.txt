@@ -6,7 +6,7 @@ state={
 	history={
 		owner = BRG
 		add_core_of = BRG
-		add_core_of = FRA
+		add_claim_by = FFR
 		buildings = {
 			infrastructure = 6
 

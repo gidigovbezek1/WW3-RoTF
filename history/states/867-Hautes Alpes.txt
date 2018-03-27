@@ -5,7 +5,6 @@ state={
 
 	history={
 		owner = BRG
-		add_core_of = VFR
 		add_claim_by = FFR
 		add_core_of = BRG
 		buildings = {

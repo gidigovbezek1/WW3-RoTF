@@ -2,7 +2,6 @@ state={
 	id=2398
 	name="STATE_2398"
 	history = {
-		add_core_of = FRA
 		add_core_of = BLO
 		add_core_of = BEL
 		owner = BEL

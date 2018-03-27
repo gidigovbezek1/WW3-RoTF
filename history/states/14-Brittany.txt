@@ -15,7 +15,7 @@ state={ #did genocide against French b/c breton national movement was laced with
 		}
 		add_core_of = BRI
 		add_claim_by = FFR
-		add_claim_by = FRA
+		add_claim_by = VFR
 	}
 	provinces={
 		542 3552 

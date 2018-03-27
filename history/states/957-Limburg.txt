@@ -1,6 +1,8 @@
+
 state={
 	id=957
 	name="STATE_957"
+
 	history={
 		owner = GER
 		add_core_of = HOL
@@ -8,10 +10,13 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 7
+
 		}
+
 	}
+
 	provinces={
-		11562 
+		11562 13321 
 	}
 	manpower=289800
 	buildings_max_level_factor=1.000

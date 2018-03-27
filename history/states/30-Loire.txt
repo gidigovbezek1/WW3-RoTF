@@ -2,7 +2,7 @@ state={
 	id=30
 	name="STATE_30"
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			11465 5 
 		}
@@ -12,7 +12,8 @@ state={
 			dockyard = 1
 			air_base = 2
 		}
-		add_core_of = FRA
+		add_claim_by = FFR
+		add_core_of = VFR
 		add_claim_by = BRI
 	}
 	provinces={

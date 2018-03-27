@@ -5,8 +5,8 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = QBC
+		add_core_of = QBC
 		buildings = {
 			infrastructure = 3
 			373 = {

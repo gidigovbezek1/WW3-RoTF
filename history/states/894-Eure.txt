@@ -6,6 +6,7 @@ state={
 		buildings = {
 			infrastructure = 7
 		}
+		add_claim_by = FFR
 		add_core_of = FRA
 	}
 	provinces={

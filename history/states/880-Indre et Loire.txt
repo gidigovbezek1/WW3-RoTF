@@ -2,14 +2,15 @@ state={
 	id=880
 	name="STATE_880"
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			3671 10 
 		}
 		buildings = {
 			infrastructure = 7
 		}
-		add_core_of = FRA
+		add_claim_by = FFR
+		add_core_of = VFR
 	}
 	provinces={
 		3671 9492 

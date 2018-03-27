@@ -2,11 +2,12 @@ state={
 	id=887
 	name="STATE_887"
 	history={
-		owner = FRA
+		owner = VFR
 		buildings = {
 			infrastructure = 7
 		}
-		add_core_of = FRA
+		add_claim_by = FFR
+		add_core_of = VFR
 	}
 	provinces={
 		3509 11463 

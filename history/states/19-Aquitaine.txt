@@ -6,7 +6,7 @@ state={
 		aluminium=6.000
 	}
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			9737 20 
 		}
@@ -20,7 +20,8 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = FRA
+		add_claim_by = FFR
+		add_core_of = VFR
 	}
 	provinces={
 		6621 9737 11565 

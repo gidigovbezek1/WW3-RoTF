@@ -5,7 +5,7 @@ state={
 		steel=12.000
 	}
 	history={
-		owner = FRA
+		owner = VFR
 		victory_points = {
 			6657 5 
 		}
@@ -15,7 +15,8 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = FRA
+		add_core_of = VFR
+		add_claim_by = FFR
 	}
 	provinces={
 		6657 9597 
