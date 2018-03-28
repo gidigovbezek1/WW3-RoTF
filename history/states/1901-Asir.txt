@@ -7,6 +7,7 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = SAU
+		add_core_of = HEJ
 	}
 	provinces={
 		1923 5006 8073 10786 

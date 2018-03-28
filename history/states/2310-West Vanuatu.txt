@@ -5,7 +5,7 @@ state={
 		chromium=53.000
 	}
 	history={
-		owner = FRA
+		owner = GER
 		add_core_of = VAN
 		buildings = {
 			infrastructure = 3

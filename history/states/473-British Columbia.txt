@@ -1,9 +1,11 @@
+
 state={
 	id=473
 	name="STATE_473"
 	resources={
 		oil=2.000
 	}
+
 	history={
 		owner = CAN
 		add_core_of = CAS
@@ -11,16 +13,20 @@ state={
 			infrastructure = 5
 			10548 = {
 				naval_base = 1
+
 			}
-			}
+
+		}
 		add_core_of = CAN
 		add_core_of = USA
 		victory_points = {
 			1408 15 
 		}
+
 	}
+
 	provinces={
-		1323 1393 1737 1799 1858 4343 4385 4870 4877 7677 7753 7761 7820 7853 10228 10258 10273 10548 10644 12231 12508 12571 12578 
+		1323 1393 1737 1799 1858 4343 4385 4870 4877 5403 7677 7753 7761 7820 7853 10228 10258 10273 10548 10644 12231 12508 12571 12578 
 	}
 	manpower=382899
 	buildings_max_level_factor=1.000

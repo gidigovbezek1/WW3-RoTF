@@ -5,7 +5,7 @@ state={
 		add_claim_by = SAU
 		owner = GER
 		buildings = {
-			infastructure = 3
+			infrastructure = 3
 		}
 	}
 	provinces={

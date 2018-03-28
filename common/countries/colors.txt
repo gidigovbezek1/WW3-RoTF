@@ -1076,7 +1076,7 @@ AZN = {
 	color = rgb { 210 0 0 }
 	color_ui = rgb { 210 0 0 }
 }
-LEG = {
+LGA = {
 	color = rgb { 249 253 253 }
 	color_ui = rgb { 249 253 253 }
 }
@@ -1502,7 +1502,7 @@ DNZ = {
 	color = rgb { 254 8 0 }
 	color_ui = rgb { 254 8 0 }
 }
-TNG = {
+TGI = {
 	color = rgb { 48 96 0 }
 	color_ui = rgb { 48 96 0 }
 }

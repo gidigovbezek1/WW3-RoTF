@@ -149,3 +149,18 @@ CHI_warlord_PRC = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 178 34 60 }
 }
+
+BLR_GER = {
+	color = rgb { 232 180 0 }
+	color_ui = rgb { 232 180 0 }
+}
+
+UKR_GER = {
+	color = rgb { 0 162 232 }
+	color_ui = rgb { 0 162 232 }
+}
+
+PAP_GER = {
+	color = rgb { 68 68 126 }
+	color_ui = rgb { 68 68 126 }
+}

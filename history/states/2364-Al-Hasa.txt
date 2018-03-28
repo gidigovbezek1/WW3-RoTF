@@ -15,7 +15,7 @@ state={
 		}
 		add_core_of = SAU
 		add_core_of = SYM
-		add_core_of = EJS
+		add_core_of = NEJ
 	}
 
 	provinces={

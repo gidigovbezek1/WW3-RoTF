@@ -15,6 +15,7 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = USA
+		add_core_of = MRU
 		add_core_of = NFL
 	}
 	provinces={

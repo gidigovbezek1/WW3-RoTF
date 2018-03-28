@@ -9,6 +9,7 @@ state={
 		add_claim_by = MOR
 		add_core_of = GER
 		add_core_of = SPR
+		add_core_of = TGI
 		victory_points = {
 			9945 5 
 		}
