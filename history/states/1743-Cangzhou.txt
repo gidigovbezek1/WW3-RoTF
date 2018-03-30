@@ -1,6 +1,8 @@
+
 state={
 	id=1743
 	name="STATE_1743"
+
 	history={
 		owner = JAP
 		add_core_of = CHI
@@ -8,10 +10,13 @@ state={
 		add_core_of = JAP
 		buildings = {
 			infrastructure = 4
+
 		}
+
 	}
+
 	provinces={
-		4137 9969 10119 11944 11980 
+		10119 11944 11980 
 	}
 	manpower=3004889
 	buildings_max_level_factor=1.000

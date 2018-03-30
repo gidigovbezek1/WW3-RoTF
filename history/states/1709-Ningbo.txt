@@ -2,7 +2,8 @@ state={
 	id=1709
 	name="STATE_1709"
 	history={
-		owner = CHI
+		owner = LGA
+		add_core_of = LGA
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
@@ -14,12 +15,6 @@ state={
 				naval_base = 3
 				coastal_bunker = 1
 				bunker = 1
-			}
-		}
-		1938.10.25 = {
-			JAP = {
-				set_province_controller = 7058
-				set_province_controller = 9974
 			}
 		}
 	}

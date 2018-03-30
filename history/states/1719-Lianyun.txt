@@ -4,7 +4,8 @@ state={
 	name="STATE_1719"
 
 	history={
-		owner = CHI
+		owner = LGA
+		add_core_of = LGA
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -19,7 +20,7 @@ state={
 	}
 
 	provinces={
-		1029 
+		13341 
 	}
 	manpower=4284143
 	buildings_max_level_factor=1.000

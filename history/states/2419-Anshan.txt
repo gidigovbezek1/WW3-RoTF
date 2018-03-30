@@ -1,6 +1,7 @@
 state={
 	id=2419
 	name="STATE_2419"
+	history = {
 	owner = JAP
 		add_core_of = MAN
 		add_core_of = JAP
@@ -8,6 +9,7 @@ state={
 		add_claim_by = PRC
 		buildings = {
 			infrastructure = 4
+		}
 		}
 	provinces={
 		892 987 9781 

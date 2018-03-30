@@ -16,10 +16,11 @@ state={
 		}
 		add_core_of = BLR
 		add_core_of = GER
+
 	}
 
 	provinces={
-		216 294 3267 6220 11216 11370 
+		3267 11216 11370 
 	}
 	manpower=775442
 	buildings_max_level_factor=1.000

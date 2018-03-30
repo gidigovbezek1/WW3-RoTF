@@ -2,11 +2,10 @@ state={
 	id=1732
 	name="STATE_1732"
 	history={
-		owner = JAP
+		owner = LGA
 		add_core_of = CHI
 		add_core_of = PRC
-		add_core_of = JAP
-		add_claim_by = GER
+		add_core_of = LGA
 		victory_points = {
 			10000 5 
 		}

@@ -2,7 +2,8 @@ state={
 	id=782
 	name="STATE_782"
 	history={
-		owner = CHI
+		owner = LGA
+		add_core_of = LGA
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -18,9 +19,6 @@ state={
 		}
 		victory_points = {
 			7014 10 
-		}
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 	provinces={

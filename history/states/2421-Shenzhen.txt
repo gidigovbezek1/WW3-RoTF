@@ -2,6 +2,7 @@ state={
 	id=2421
 	name="STATE_2421"
 	history = {
+	owner = LGA
 		add_core_of = PRC
 		add_core_of = LGA
 		add_core_of = CHI

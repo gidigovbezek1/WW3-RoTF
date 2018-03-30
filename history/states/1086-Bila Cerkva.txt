@@ -1,16 +1,20 @@
+
 state={
 	id=1086
 	name="STATE_1086"
+
 	history={
-		owner = GER
+		owner = UKR
 		buildings = {
 			infrastructure = 7
+
 		}
-		add_core_of = GER
 		add_core_of = UKR
+
 	}
+
 	provinces={
-		504 3494 6497 9465 
+		504 6497 
 	}
 	manpower=831784
 	buildings_max_level_factor=1.000
