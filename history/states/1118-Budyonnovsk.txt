@@ -4,18 +4,17 @@ state={
 	name="STATE_1118"
 
 	history={
-		owner = CAU
+		owner = VCS
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
-		add_core_of = CAU
-		add_core_of = KLM
+		add_core_of = VCS
+
 	}
 
 	provinces={
-		6702 6718 6733 11661 11690 
+		6702 6718 6733 11661 11690 13335 
 	}
 	manpower=329129
 	buildings_max_level_factor=1.000

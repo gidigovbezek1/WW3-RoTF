@@ -5,7 +5,8 @@ state={
 		chromium=18.000
 	}
 	history={
-		owner = FRA
+		owner = NZL
+		add_core_of = NZL
 		add_core_of = NCL
 		buildings = {
 			infrastructure = 3
