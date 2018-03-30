@@ -1,20 +1,15 @@
-
 state={
 	id=237
 	name="STATE_237"
-
 	history={
-		owner = KLM
+		owner = CAU
 		buildings = {
 			infrastructure = 2
-
 		}
 		add_core_of = SOV
 		add_core_of = CAU
 		add_core_of = KLM
-
 	}
-
 	provinces={
 		481 3413 3439 3475 3597 6463 6794 9426 9594 11566 
 	}

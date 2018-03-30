@@ -148,7 +148,6 @@ add_to_faction = NZL
 add_to_faction = FFR
 add_to_faction = PHI
 add_to_faction = INS
-add_to_faction = EAC
 add_to_faction = CAB
 
 create_country_leader = {

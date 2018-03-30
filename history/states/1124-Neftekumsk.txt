@@ -1,22 +1,17 @@
-
 state={
 	id=1124
 	name="STATE_1124"
-
 	history={
-		owner = KLM
+		owner = CAU
 		buildings = {
 			infrastructure = 2
-
 		}
 		add_core_of = SOV
 		add_core_of = CAU
 		add_core_of = KLM
-
 	}
-
 	provinces={
-		742 745 759 3726 3774 6760 6791 9720 13326 13337 
+		742 745 759 3746 3774 6791 9720 9739 11724 
 	}
 	manpower=84810
 	buildings_max_level_factor=1.000

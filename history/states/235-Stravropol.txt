@@ -1,24 +1,21 @@
-
 state={
 	id=235
 	name="STATE_235"
 	resources={
 		chromium=20.000
 	}
-
 	history={
-		owner = VCS
+		owner = CAU
 		buildings = {
 			infrastructure = 4
 			air_base = 2
-
 		}
-		add_core_of = VCS
-
+		add_core_of = SOV
+		add_core_of = CAU
+		add_core_of = KLM
 	}
-
 	provinces={
-		3746 3748 6750 6753 9705 9707 11693 11694 
+		3748 6750 9705 9707 9722 11693 11694 11727 
 	}
 	manpower=329129
 	buildings_max_level_factor=1.000
