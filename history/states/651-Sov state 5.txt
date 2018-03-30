@@ -4,7 +4,7 @@ state={
 	name="STATE_651"
 
 	history={
-		owner = TKS
+		owner = DVR
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -13,9 +13,8 @@ state={
 		victory_points = {
 			1278 1 
 		}
-		add_core_of = SOV
+		add_core_of = DVR
 		add_core_of = TAT
-		add_core_of = TKS
 
 	}
 

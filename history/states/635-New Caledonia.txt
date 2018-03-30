@@ -5,7 +5,8 @@ state={
 		chromium=62.000
 	}
 	history={
-		owner = FRA
+		owner = NZL
+		add_core_of = NZL
 		add_core_of = NCL
 		victory_points = {
 			4268 1 

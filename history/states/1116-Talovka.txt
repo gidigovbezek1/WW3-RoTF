@@ -12,10 +12,11 @@ state={
 		add_core_of = TCF
 		add_core_of = DAG
 		add_core_of = KLM
+
 	}
 
 	provinces={
-		683 700 6730 6748 
+		6730 6748 13334 
 	}
 	manpower=276382
 	buildings_max_level_factor=1.000
