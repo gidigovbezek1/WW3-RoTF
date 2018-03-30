@@ -4,17 +4,17 @@ state={
 	name="STATE_1150"
 
 	history={
-		owner = DVR
+		owner = MOS
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = DVR
+		add_core_of = MOS
 
 	}
 
 	provinces={
-		9312 9339 9367 11296 11323 11436 
+		6317 6341 6369 9339 9367 11323 
 	}
 	manpower=593194
 	buildings_max_level_factor=1.000

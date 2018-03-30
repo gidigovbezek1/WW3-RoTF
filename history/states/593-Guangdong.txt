@@ -1,3 +1,4 @@
+
 state={
 	id=593
 	name="STATE_593"
@@ -6,6 +7,7 @@ state={
 		steel=5.000
 		chromium=1.000
 	}
+
 	history={
 		owner = CHI
 		add_core_of = GXC
@@ -14,10 +16,13 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
+
 		}
+
 	}
+
 	provinces={
-		1202 7108 12095 
+		1202 12095 
 	}
 	manpower=2070100
 	buildings_max_level_factor=1.000

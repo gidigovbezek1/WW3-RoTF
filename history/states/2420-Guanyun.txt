@@ -1,0 +1,17 @@
+state={
+	id=2420
+	name="STATE_2420"
+	history ={
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		4031 4082 
+	}
+	manpower=921038
+	state_category = town
+	buildings_max_level_factor=1.000
+}

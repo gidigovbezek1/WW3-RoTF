@@ -5,11 +5,11 @@ state={
 		chromium=10.000
 	}
 	history={
-		owner = DVR
+		owner = MOS
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = DVR
+		add_core_of = MOS
 	}
 	provinces={
 		232 275 396 9245 11227 11351 11381 
