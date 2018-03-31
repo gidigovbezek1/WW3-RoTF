@@ -14,11 +14,7 @@ state={
 		victory_points = {
 			4425 1 
 		}
-		1937.4.1 = {
-			owner = MYA
-			controller = MYA
 		}
-	}
 	provinces={
 		1492 4585 7469 12404 
 	}

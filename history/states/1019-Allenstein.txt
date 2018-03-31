@@ -3,7 +3,6 @@ state={
 	name="STATE_1019"
 	history={
 		owner = GER
-		controller = GER
 		add_core_of = GER
 		add_core_of = PRS
 		buildings = {

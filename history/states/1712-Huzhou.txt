@@ -11,14 +11,6 @@ state={
 			infrastructure = 4
 
 		}
-		1938.10.25 = {
-			JAP = {
-				set_province_controller = 10014
-				set_province_controller = 10101
-
-			}
-
-		}
 
 	}
 

@@ -8,12 +8,6 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		1938.10.25 = {
-			JAP = {
-				set_province_controller = 1096
-				set_province_controller = 11991
-			}
-		}
 	}
 	provinces={
 		1096 11991 

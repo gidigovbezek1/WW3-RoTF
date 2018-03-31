@@ -3,6 +3,7 @@ state={
 	name="STATE_2413"
 	history = {
 		add_core_of = TCF
+		add_core_of = OSS
 		owner = TCF
 			buildings = {
 				infrastructure = 4
