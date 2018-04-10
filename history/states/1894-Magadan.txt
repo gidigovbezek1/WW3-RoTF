@@ -11,6 +11,8 @@ state={
 
 		}
 		add_core_of = SOV
+		add_claim_by = JAP
+
 
 	}
 

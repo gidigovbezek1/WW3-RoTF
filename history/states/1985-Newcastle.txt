@@ -2,7 +2,7 @@ state={
 	id=1985
 	name="STATE_1985"
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 			7520 = {
@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			7520 1 
 		}
-		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		1611 7450 7471 7496 7520 7664 10388 10500 

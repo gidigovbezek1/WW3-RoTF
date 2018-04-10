@@ -2,11 +2,11 @@ state={
 	id=1986
 	name="STATE_1986"
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		4453 4478 4500 4658 7649 

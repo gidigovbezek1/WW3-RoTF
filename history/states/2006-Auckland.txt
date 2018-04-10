@@ -2,7 +2,7 @@ state={
 	id=2006
 	name="STATE_2006"
 	history={
-		owner = NZL
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 			4543 = {
@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			4543 5 
 		}
-		add_core_of = NZL
+		add_core_of = AZN
 	}
 	provinces={
 		4543 10373 

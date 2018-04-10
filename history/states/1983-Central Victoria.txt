@@ -6,11 +6,11 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		2130 2155 4776 4791 7811 12932 

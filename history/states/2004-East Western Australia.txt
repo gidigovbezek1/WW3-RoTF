@@ -3,11 +3,11 @@ state={
 	name="STATE_2004"
 	impassable=yes
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = AST
+		add_core_of = AZN
 		add_core_of = WES
 	}
 	provinces={

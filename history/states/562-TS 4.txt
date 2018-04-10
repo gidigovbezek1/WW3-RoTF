@@ -8,6 +8,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = SOV
+		add_claim_by = JAP
 	}
 	provinces={
 		1714 11607 12518 12551 

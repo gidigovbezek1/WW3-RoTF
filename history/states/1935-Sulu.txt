@@ -5,6 +5,9 @@ state={
 		owner = PHI
 		buildings = {
 			infrastructure = 3
+			10184 = {
+				naval_base = 1
+			}
 		}
 		add_core_of = PHI
 	}

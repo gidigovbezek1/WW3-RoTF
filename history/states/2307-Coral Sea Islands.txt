@@ -2,14 +2,14 @@ state={
 	id=2307
 	name="STATE_2307"
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 3
 			13221 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		13221 

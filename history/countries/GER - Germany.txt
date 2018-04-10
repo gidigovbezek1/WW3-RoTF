@@ -54,138 +54,6 @@ create_import = {
 		exporter = SWE
 }
 
-1939.1.1 = {
-	add_named_threat = { threat = 40 name = 1939_bookmark_threat }
-
-	add_political_power = 1197
-	
-	#adding ministers
-	add_ideas = {
-		henschel
-		ig_faben
-		heinrich_himmler
-		rudolf_hess
-		ludwig_beck
-		gerd_von_rundstedt
-
-		#laws
-		war_economy
-		extensive_conscription
-	}
-	
-	oob = "GER_1939"
-	
-	set_autonomy = {
-		target = SLO
-		autonomous_state = autonomy_puppet
-	}
-	
-	give_military_access = SLO
-	create_wargoal = {
-		type = take_state_focus
-		target = POL
-		generator = { 72 88 90 87 86 } # Zaolzie Krakow Kielce Lodz Poznan
-	}
-
-#Trade
-	create_import = {
-			resource = oil
-			factories = 2
-			exporter = SOV
-	}
-
-	#Soviet treaty
-	unlock_national_focus = GER_soviet_treaty
-	add_tech_bonus = {
-		bonus = 0.5
-		uses = 2
-		category = armor
-	}
-	SOV = {
-		add_opinion_modifier = { target = GER modifier = sov_ger_treaty }
-		add_opinion_modifier = { target = GER modifier = sov_ger_treaty_trade }
-	}
-	#Soviet treaty end
-	
-	unlock_national_focus = GER_rhineland
-	unlock_national_focus = GER_anschluss
-	unlock_national_focus = GER_demand_sudetenland
-	unlock_national_focus = GER_first_vienna_award
-	unlock_national_focus = GER_end_of_czechoslovakia
-	unlock_national_focus = GER_demand_memel
-
-	set_global_flag = end_of_czechoslovakia
-	set_global_flag = olympics_1936
-	complete_national_focus = GER_autobahn
-	complete_national_focus = GER_west_wall
-	complete_national_focus = GER_army_innovation
-	complete_national_focus = GER_industrial_effort
-
-	#BUILDINGS
-	
-
-	set_technology = {
-		improved_light_tank = 1 
-		basic_medium_tank = 1 
-		CAS2 = 1
-		heavy_fighter1 = 1
-		interwar_artillery = 1
-		interwar_antitank = 1
-		infantry_weapons2 = 1
-		improved_infantry_weapons = 1
-		support_weapons = 1
-		support_weapons2 = 1
-		paratroopers = 1
-		basic_heavy_cruiser = 1
-		improved_heavy_cruiser = 1
-		improved_battleship = 1
-		early_carrier = 1
-		basic_carrier = 1
-		improved_carrier = 1
-
-		#doctrines
-		delay = 1
-		elastic_defence = 1
-		armored_spearhead = 1
-		schwerpunk = 1
-		blitzkrieg = 1
-		convoy_interdiction_ti = 1
-		unrestricted_submarine_warfare = 1
-		raider_patrols = 1
-		#air
-		formation_flying = 1		
-		dive_bombing = 1
-		direct_ground_support = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		decimetric_radar = 1
-		mechanical_computing = 1
-		computing_machine = 1
-		basic_encryption = 1
-		basic_decryption = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		synth_oil_experiments = 1
-		oil_processing = 1
-		improved_oil_processing = 1
-		construction1 = 1
-		construction2 = 1
-		construction3 = 1
-		construction4 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-		dispersed_industry3 = 1
-		dispersed_industry4 = 1
-
-	}
-}
-
 set_politics = {
 
 	parties = {
@@ -257,6 +125,14 @@ if = {
 		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
+		target = VCA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = KLM
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
 		target = FRA
 		autonomous_state = autonomy_puppet
 	}
@@ -322,6 +198,8 @@ if = {
 		puppet = FRA
 		puppet = ITA
 		puppet = TCF
+		puppet = VCS
+		puppet = KLM
 		puppet = DVR
 		puppet = VFR
 		puppet = BRI
@@ -341,16 +219,61 @@ if = {
 	}
 }
 
+#2nd Berlin Pact
+give_guarantee = TUR
+give_guarantee = PER
+give_guarantee = TKS
+give_guarantee = SAU
+give_guarantee = PAK
+give_guarantee = KAS
+give_guarantee = CRE
+give_guarantee = VFR
+give_guarantee = SPR
+give_guarantee = POR
+give_guarantee = KLM
+give_guarantee = SLO
+give_guarantee = HUN
+give_guarantee = EGY
+give_guarantee = SAF
+give_guarantee = MOR
+give_guarantee = ROM
+give_guarantee = CRO
+give_guarantee = SER
+give_guarantee = ITA
+give_guarantee = HOL
+give_guarantee = BRG
+give_guarantee = BEL
+give_guarantee = BRI
+give_guarantee = SCA
+give_guarantee = ALB
+give_guarantee = BUL
+give_guarantee = GRE
+give_guarantee = UKR
+give_guarantee = BLR
+give_guarantee = MOS
+give_guarantee = NOV
+give_guarantee = KLM
+give_guarantee = VCS
+give_guarantee = TCF
+give_guarantee = DVR
+give_guarantee = FIN
+give_guarantee = CAU
+give_guarantee = CMR
+give_guarantee = COG
 
-create_faction = Axis
+
+create_faction = European-Confederation
 add_to_faction = GER
 add_to_faction = CRE
 add_to_faction = HOL
 add_to_faction = BEL
+add_to_faction = VCS
+add_to_faction = KLM
 add_to_faction = ITA
 add_to_faction = BAT
 add_to_faction = BUL
 add_to_faction = DVR
+add_to_faction = EGY
 add_to_faction = SCA
 add_to_faction = SLO
 add_to_faction = HUN
@@ -359,6 +282,7 @@ add_to_faction = VFR
 add_to_faction = FRA
 add_to_faction = CRO
 add_to_faction = SAF
+add_to_faction = MOR
 add_to_faction = URA
 add_to_faction = ALB
 add_to_faction = GRE
@@ -367,15 +291,8 @@ add_to_faction = ROM
 add_to_faction = BLR
 add_to_faction = UKR
 add_to_faction = BRI
-add_to_faction = SAU
-add_to_faction = PER
-add_to_faction = KAS
-add_to_faction = TKS
-add_to_faction = TUR
-add_to_faction = EGY
 add_to_faction = SPR
 add_to_faction = POR
-add_to_faction = PAK
 add_to_faction = FIN
 add_to_faction = ISB
 add_to_faction = MOS
@@ -424,31 +341,6 @@ create_country_leader = {
 		exiled
 	}
 }
-
-#create_country_leader = {
-#	name = "Otto Wels"
-#	desc = "POLITICS_OTTO_WELS_DESC"
-#	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1939.1.16"
-#	ideology = socialism
-#	traits = {
-#		exiled
-#		union_man
-#	}
-#}
-#
-#create_country_leader = {
-#	name = "Ernst Thälmann"
-#	desc = "POLITICS_ERNST_THALMANN_DESC"
-#	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1956.1.1"
-#	ideology = stalinism
-#	traits = {
-#		assassination_survivor
-#		stalins_puppet
-#		political_prisoner
-#	}
-#}
 
 add_namespace = {
 	name = "ger_unit_leader"
@@ -774,65 +666,3 @@ create_equipment_variant = {
 	obsolete = yes
 }
 
-
-## 1939 Start ##
-1939.1.1 = {
-	# Submarines #
-	create_equipment_variant = {
-		name = "Type VIIA"
-		type = submarine_2
-		parent_version = 0
-		upgrades = {
-			ship_reliability_upgrade = 1
-			sub_engine_upgrade = 1
-			sub_stealth_upgrade = 1
-			sub_torpedo_upgrade = 1
-		}
-	}
-	# Destroyer #
-	create_equipment_variant = {
-		name = "Zerstörer 1936"
-		type = destroyer_2
-		parent_version = 0
-		upgrades = {
-			ship_torpedo_upgrade = 2
-			destroyer_engine_upgrade = 2
-			ship_ASW_upgrade = 2
-			ship_anti_air_upgrade = 2
-		}
-	}
-
-	create_equipment_variant = {
-		name = "He 112"
-		type = fighter_equipment_1
-		upgrades = {
-			plane_gun_upgrade = 1
-			plane_range_upgrade = 1  
-			plane_engine_upgrade = 0
-			plane_reliability_upgrade = 2
-		}
-	}
-	create_equipment_variant = {
-		name = "Bf 109 E"
-		type = fighter_equipment_1
-		upgrades = {
-			plane_gun_upgrade = 2
-			plane_range_upgrade = 1  
-			plane_engine_upgrade = 2
-			plane_reliability_upgrade = 4
-		}
-	}
-	# Heavy Cruisers #
-	#create_equipment_variant = {
-	#	name = "Deutschland Class"
-	#	type = heavy_cruiser_1
-	#	parent_version = 0
-	#	upgrades = {
-	#		ship_reliability_upgrade = 1
-	#		ship_engine_upgrade = 1
-	#		ship_armor_upgrade = 1
-	#		ship_gun_upgrade = 2
-	#	}
-	#	obsolete = yes
-	#}
-}

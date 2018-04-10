@@ -13,10 +13,6 @@ state={
 			infrastructure = 1
 
 		}
-		1938.10.25 = {
-			owner = CHI
-
-		}
 
 	}
 

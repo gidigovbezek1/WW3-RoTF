@@ -9,9 +9,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		1938.10.25 = {
-			owner = CHI
-		}
 	}
 	provinces={
 		4313 7397 12797 

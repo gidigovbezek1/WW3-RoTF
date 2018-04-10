@@ -2,14 +2,14 @@ state={
 	id=2313
 	name="STATE_2313"
 	history={
-		owner = NZL
+		owner = AZN
 		buildings = {
 			infrastructure = 3
 			13214 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = NZL
+		add_core_of = AZN
 		add_core_of = CHA
 	}
 	provinces={

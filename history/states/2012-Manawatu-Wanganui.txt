@@ -2,11 +2,11 @@ state={
 	id=2012
 	name="STATE_2012"
 	history={
-		owner = NZL
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = NZL
+		add_core_of = AZN
 	}
 	provinces={
 		1786 4804 7692 7826 

@@ -5,7 +5,7 @@ state={
 		tungsten=36.000
 	}
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -18,7 +18,7 @@ state={
 		victory_points = {
 			7564 5 
 		}
-		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		1570 4530 4546 5227 7535 7564 7592 10430 10445 10458 12451 

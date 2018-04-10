@@ -17,7 +17,7 @@ state={
 				bunker = 1
 			}
 		}
-	}
+		}
 	provinces={
 		10000 
 	}

@@ -2,7 +2,7 @@ state={
 	id=284
 	name="STATE_284"
 	history={
-		owner = NZL
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -15,7 +15,7 @@ state={
 		victory_points = {
 			1814 10 
 		}
-		add_core_of = NZL
+		add_core_of = AZN
 	}
 	provinces={
 		1814 

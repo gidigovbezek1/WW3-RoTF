@@ -12,6 +12,9 @@ state={
 			4247 = {
 				naval_base = 1
 			}
+			12120 = {
+				naval_base = 1
+			}
 		}
 	}
 	provinces={

@@ -2,8 +2,8 @@ state={
 	id=2414
 	name="STATE_2414"
 	history = {
-		owner = TKS
-		add_core_of = TKS
+		owner = KAS
+		add_core_of = KAS
 		add_claim_by = PER
 		add_claim_by = PAK
 	}
