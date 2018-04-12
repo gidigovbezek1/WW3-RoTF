@@ -16,10 +16,4 @@ resources = {
 		cic = 0.225
 		convoys = 0.05
 	}
-
-	uranium = {
-		icon_frame = 9
-		cic = 0.625
-		convoys = 0.05
-	}
 }

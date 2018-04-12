@@ -59,7 +59,12 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_generic_bg"
 		texturefile = "gfx/interface/generic_bg.dds"
-	}	
+	}
+
+	spriteType = {
+		name = "GFX_generic_bg4"
+		texturefile = "gfx/interface/generic_bg4.dds"
+	}
 	
 	spriteType = {
 		name = "GFX_generic_text_bg_154"
@@ -160,13 +165,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resources_strip"
 		texturefile = "gfx/interface/resources_strip.dds"
-		noOfFrames = 10
+		noOfFrames = 9
 	}
 
 	spriteType = {
 		name = "GFX_missing_resources_strip"
 		texturefile = "gfx/interface/missing_resources_strip.dds"
-		noOfFrames = 10
+		noOfFrames = 9
 	}
 	
 	spriteType = {
