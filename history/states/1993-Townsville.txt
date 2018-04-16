@@ -13,6 +13,7 @@ state={
 			7566 1 
 		}
 		add_core_of = AZN
+		add_core_of = AST
 	}
 	provinces={
 		4520 7538 7566 12367 12382 

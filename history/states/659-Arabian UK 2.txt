@@ -7,6 +7,9 @@ state={
 		owner = GER
 		buildings = {
 			infrastructure = 3
+				13302 = {
+				naval_base = 5
+			}
 			}
 		add_claim_by = SAU
 		}

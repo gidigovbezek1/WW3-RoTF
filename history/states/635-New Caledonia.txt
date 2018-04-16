@@ -8,6 +8,7 @@ state={
 		owner = AZN
 		add_core_of = AZN
 		add_core_of = NCL
+		add_core_of = NZL
 		victory_points = {
 			4268 1 
 		}

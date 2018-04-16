@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = AZN
 		add_core_of = NMU
+		add_core_of = NZL
 	}
 	provinces={
 		8204 8212 12966 12974 

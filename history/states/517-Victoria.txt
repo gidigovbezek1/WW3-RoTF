@@ -6,7 +6,7 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = AST
+		owner = AZN
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -21,6 +21,7 @@ state={
 			7798 20 
 		}
 		add_core_of = AST
+		add_core_of = AZN
 	}
 	provinces={
 		1759 7755 7798 10553 10581 10622 10637 12576 

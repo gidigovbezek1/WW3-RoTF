@@ -7,6 +7,9 @@ state={
 		add_claim_by = SAU
 		buildings = {
 			infrastructure = 2
+				13280 = {
+				naval_base = 6
+			}
 		}
 	}
 	

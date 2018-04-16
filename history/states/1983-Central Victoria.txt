@@ -11,6 +11,7 @@ state={
 			infrastructure = 6
 		}
 		add_core_of = AZN
+		add_core_of = AST
 	}
 	provinces={
 		2130 2155 4776 4791 7811 12932 

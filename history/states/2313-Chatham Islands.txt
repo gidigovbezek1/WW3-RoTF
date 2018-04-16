@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = AZN
 		add_core_of = CHA
+		add_core_of = NZL
 	}
 	provinces={
 		13214 

@@ -9,6 +9,7 @@ state={
 		}
 		add_core_of = AZN
 		add_core_of = WES
+		add_core_of = AST
 	}
 	provinces={
 		2133 2177 2186 8134 8155 10473 12904 12912 12926 
