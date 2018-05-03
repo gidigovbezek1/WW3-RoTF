@@ -7,9 +7,6 @@ state={
 		add_core_of = TON
 		buildings = {
 			infrastructure = 3
-			13207 = {
-				naval_base = 1
-			}
 		}
 	}
 	provinces={

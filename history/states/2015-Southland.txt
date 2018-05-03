@@ -14,7 +14,7 @@ state={
 		add_core_of = NMU
 	}
 	provinces={
-		8241 12980 12988 13242 
+		8241 12980 12988
 	}
 	manpower=72777
 	buildings_max_level_factor=1.000
